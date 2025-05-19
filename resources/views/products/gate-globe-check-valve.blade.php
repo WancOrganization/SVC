@@ -90,7 +90,7 @@
                             </table>
                         </div>
                     </div>
-                    <div class="mt-3"> <a href="/contact-us" class="btn btn-roundeded"
+                    <div class="mt-3"> <a href="/#contact-us" class="btn btn-roundeded"
                             style="background-color: #005199; color:#ffdd00 ; border-color:#fff">BOOK NOW</a></div>
                 </div>
                 <div <div class="col-lg-7 align-content-center">
@@ -225,7 +225,7 @@
                             </table>
                         </div>
                     </div>
-                    <div class="mt-3"> <a href="/contact-us" class="btn btn-roundeded"
+                    <div class="mt-3"> <a href="/#contact-us" class="btn btn-roundeded"
                             style="background-color: #005199; color:#ffdd00 ; border-color:#fff">BOOK NOW</a></div>
                 </div>
             </div>
@@ -320,7 +320,7 @@
                             </table>
                         </div>
                     </div>
-                    <div class="mt-3"> <a href="/contact-us" class="btn btn-roundeded"
+                    <div class="mt-3"> <a href="/#contact-us" class="btn btn-roundeded"
                             style="background-color: #005199; color:#ffdd00 ; border-color:#fff">BOOK NOW</a></div>
                 </div>
                 <div <div class="col-lg-7 align-content-center">
@@ -445,7 +445,7 @@
                             </table>
                         </div>
                     </div>
-                    <div class="mt-3"> <a href="/contact-us" class="btn btn-roundeded"
+                    <div class="mt-3"> <a href="/#contact-us" class="btn btn-roundeded"
                             style="background-color: #005199; color:#ffdd00 ; border-color:#fff">BOOK NOW</a></div>
                 </div>
             </div>
@@ -523,7 +523,7 @@
                             </table>
                         </div>
                     </div>
-                    <div class="mt-3"> <a href="/contact-us" class="btn btn-roundeded"
+                    <div class="mt-3"> <a href="/#contact-us" class="btn btn-roundeded"
                             style="background-color: #005199; color:#ffdd00 ; border-color:#fff">BOOK NOW</a></div>
                 </div>
                 <div <div class="col-lg-7 align-content-center">
@@ -646,7 +646,7 @@
                             </table>
                         </div>
                     </div>
-                    <div class="mt-3"> <a href="/contact-us" class="btn btn-roundeded"
+                    <div class="mt-3"> <a href="/#contact-us" class="btn btn-roundeded"
                             style="background-color: #005199; color:#ffdd00 ; border-color:#fff">BOOK NOW</a></div>
                 </div>
             </div>

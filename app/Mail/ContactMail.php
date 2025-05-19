@@ -15,17 +15,20 @@ class ContactMail extends Mailable
     public $email;
     public $msg;
     public $subject;
+    public $contact;
+
     /**
      * Create a new message instance.
      *
      * @return void
      */
-    public function __construct($email, $msg, $subject)
+    public function __construct($email, $msg, $subject, $contact)
     {
         //
         $this->email = $email;
         $this->msg = $msg;
         $this->subject = $subject;
+        $this->contact = $contact;
     }
 
     /**

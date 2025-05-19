@@ -22,7 +22,7 @@
         <!-- end: Slide 1 -->
 
         <!-- Slide 2 -->
-        <div class="slide kenburns" style="background-image: url({{ asset('Asset/images/anzox/valve2.jpg') }})">
+        <div class="slide kenburns" style="background-image: url({{ asset('Asset/images/anzox/valve10.jpg') }}); opacity:0.9">
             <div class="container">
                 <div class="slide-captions text-center">
                     <!-- Captions -->
@@ -41,7 +41,7 @@
 
 
         <!-- Slide 3 -->
-        <div class="slide kenburns" style="background-image: url({{ asset('Asset/images/anzox/valve3.jpg') }})">
+        <div class="slide kenburns" style="background-image: url({{ asset('Asset/images/anzox/valve9.jpg') }})">
             <div class="container">
                 <div class="slide-captions text-center">
                     <!-- Captions -->
@@ -394,10 +394,15 @@
                             </div>
                         </div>
                         <div class="row">
-                            <div class="form-group col-md-12">
+                            <div class="form-group col-md-6">
                                 <label for="subject">Your Subject</label>
                                 <input type="text" name="subject" required="" class="form-control required"
                                     placeholder="Subject...">
+                            </div>
+                             <div class="form-group col-md-6">
+                                <label for="subject">Contact no.</label>
+                                <input type="text" name="contact" required="" class="form-control required"
+                                    placeholder="0000 000 000">
                             </div>
                         </div>
                         <div class="form-group">
