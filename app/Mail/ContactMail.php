@@ -27,8 +27,8 @@ class ContactMail extends Mailable
         //
         $this->email = $email;
         $this->msg = $msg;
-        $this->subject = $subject;
         $this->contact = $contact;
+        $this->subject = $subject;
     }
 
     /**

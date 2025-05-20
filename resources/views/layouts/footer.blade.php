@@ -23,12 +23,12 @@
                                 <div class="widget-title" style="font-family: Verdana;">Discover</div>
                                 <ul class="list text-light" style="font-family: montserrat;">
                                     <li><a style="text-decoration: none" href="/">HOME</a></li>
-                                    <li><a style="text-decoration: none" href="/">ABOUT</a></li>
-                                    <li><a style="text-decoration: none" href="/">OUR PRODUCTS</a></li>
+                                    <li><a style="text-decoration: none" href="/#about">ABOUT</a></li>
+                                    <li><a style="text-decoration: none" href="/#products">OUR PRODUCTS</a></li>
                                     <li><a style="text-decoration: none" href="/industries-served">INDUSTRIES SERVED</a></li>
                                     <li><a style="text-decoration: none" href="/facilities">FACILITIES</a></li>
                                     <li><a style="text-decoration: none" href="/catelogue">CATELOGUE</a></li>
-                                    <li><a style="text-decoration: none" href="/">CONTACT US</a></li>
+                                    <li><a style="text-decoration: none" href="/#contact-us">CONTACT US</a></li>
                                 </ul>
                             </div>
                         </div>

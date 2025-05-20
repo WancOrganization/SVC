@@ -22,7 +22,8 @@
         <!-- end: Slide 1 -->
 
         <!-- Slide 2 -->
-        <div class="slide kenburns" style="background-image: url({{ asset('Asset/images/anzox/valve10.jpg') }}); opacity:0.9">
+        <div class="slide kenburns"
+            style="background-image: url({{ asset('Asset/images/anzox/valve10.jpg') }}); opacity:0.9">
             <div class="container">
                 <div class="slide-captions text-center">
                     <!-- Captions -->
@@ -119,50 +120,49 @@
                 <div class="row justify-content-between">
                     <!-- PRODUCTS -->
                     <div class="col-md-3 p-0 text-center">
-                        <div class="mb-3"><img src="{{ asset('Asset/images/icon/high-quality.png') }}" width="25%"
+                        <div class="mb-4"><img src="{{ asset('Asset/images/icon/high-quality.png') }}" width="25%"
                                 alt=""></div>
                         <h3 class=" fw-semibold" style="color: #ffdd00; font-family:Verdana">
                             QUALITY POLICY</h3>
                         <p class="my-3 text-light" style="font-family: montserrat">
-                            Velan offers one of the most comprehensive valve product lines from a single manufacturer
-                            including
-                            gate, globe, check, ball, triple-offset and butterfly valves, along with steam traps, control
-                            valves
-                            and automation solutions.
+                            We are committed to complying with applicable product specifications, management systems, legal
+                            and customer requirements, and continually improving the effectiveness of the quality management
+                            system with the participation of interested parties.
                         </p>
                     </div>
 
                     <!-- Divider -->
-                    <div class="d-none d-lg-block p-0" style="height: 35vh; width: 1px; background-color: #ffdd00;"></div>
+                    <span class="d-none d-lg-block p-0" style="height: 40vh; width: 1px; background-color: #ffdd00;"></span>
 
                     <!-- SERVICE & PARTS -->
                     <div class="col-md-3 p-0 text-center">
-                        <div class="mb-3"><img src="{{ asset('Asset/images/icon/factory.png') }}" width="25%"
+                        <div class="mb-4"><img src="{{ asset('Asset/images/icon/factory.png') }}" width="25%"
                                 alt=""></div>
                         <h3 class="text-center fw-semibold" style="color: #ffdd00; font-family:Verdana">
                             INDUSTRIES WE SERVE</h3>
                         <p class="my-3 text-light" style="font-family: montserrat">
-                            Our portfolio of Aftermarket services includes valve repair, refurbishment, maintenance,
-                            solutions-engineering, and genuine OEM spare to keep equipment operating at peak performance
-                            long
-                            after installation.
+                            Natural Gas Processing, Nuclear, Oil & Petroleum Refining, Petrochemical Processing, Chemical,
+                            Ship Building, Power Plants, Mining, FMCG, Desalination, Naval Marine Etc.Thus, Having such good
+                            industrial experience makes Steelstrong the best Valves company in India.
                         </p>
                     </div>
 
                     <!-- Divider -->
-                    <div class="d-none d-lg-block p-0" style="height: 35vh; width: 1px; background-color: #ffdd00;"></div>
+                    <span class="d-none d-lg-block p-0" style="height: 40vh; width: 1px; background-color: #ffdd00;"></span>
 
                     <!-- TECHNOLOGY -->
                     <div class="col-md-3 p-0 text-center">
-                        <div class="mb-3"><img src="{{ asset('Asset/images/icon/why.png') }}" width="25%"
+                        <div class="mb-4"><img src="{{ asset('Asset/images/icon/why.png') }}" width="25%"
                                 alt=""></div>
 
                         <h3 class="text-center fw-semibold" style="color: #ffdd00; font-family:Verdana">
                             WHY SVC?</h3>
                         <p class="my-3 text-light" style="font-family: montserrat">
-                            Velan employs advanced manufacturing technologies using state-of-the-art machinery and equipment
-                            to
-                            ensure our products perform in the most challenging environments.
+                            • Leading the field through innovation <br>
+                            • Adapting to the needs of customers <br>
+                            • State-of-the art equipment and expertise <br>
+                            • Experienced, passionate and skilled team <br>
+                            • Rapid response on quotes and timely delivery
                         </p>
                     </div>
                 </div>
@@ -259,7 +259,8 @@
                 <div class="col-lg-4 m-auto">
                     <div class="text-center">
                         <h1 class="fw-bold" style=" font-family:Verdana; color:#ffdd00">Get to know us better !</h1>
-                        <h4 class="text-light" style="font-family: montserrat">Include us to be part of your Success too</h4>
+                        <h4 class="text-light" style="font-family: montserrat">Include us to be part of your Success too
+                        </h4>
                     </div>
                 </div>
                 <div class="col-lg-2">
@@ -296,7 +297,7 @@
 
     {{-- PRODUCTS --}}
     <section>
-        <div class="container p-0">
+        <div class="container p-0" id="products">
             <div class="heading-text text-center heading-section" style="color:#005199; font-family:Verdana;">
                 <h2 class="fw-bold">OUR PRODUCTS</h2>
             </div>
@@ -375,9 +376,12 @@
                 {{-- <div class="col-lg-6"> --}}
                 <h3 class="text-uppercase text-center fw-semibold" style="font-family: Verdana; color:#005199">Get In
                     Touch</h3>
-                <p style="font-family: montserrat">The most happiest time of the day!. Suspendisse condimentum porttitor
-                    cursus. Duis nec nulla turpis.
-                    Nulla lacinia laoreet odio, non lacinia nisl malesuada vel. Aenean malesuada fermentum bibendum.</p>
+                <p style="font-family: montserrat">
+                    <strong>Have questions, suggestions, or need support? We’re here to help!</strong> <br>
+                    Whether you need details about our products, want to share feedback, or need help with your order, feel
+                    free to contact us using any of the methods below. We’re committed to making your experience smooth and
+                    satisfying.
+                </p>
                 <div class="m-t-30">
                     <form class="" action="/sendmail" method="post">
                         @csrf
@@ -395,14 +399,14 @@
                         </div>
                         <div class="row">
                             <div class="form-group col-md-6">
-                                <label for="subject">Your Subject</label>
-                                <input type="text" name="subject" required="" class="form-control required"
-                                    placeholder="Subject...">
-                            </div>
-                             <div class="form-group col-md-6">
                                 <label for="subject">Contact no.</label>
                                 <input type="text" name="contact" required="" class="form-control required"
                                     placeholder="0000 000 000">
+                            </div>
+                            <div class="form-group col-md-6">
+                                <label for="subject">Your Subject</label>
+                                <input type="text" name="subject" required="" class="form-control required"
+                                    placeholder="Subject...">
                             </div>
                         </div>
                         <div class="form-group">
