@@ -18,10 +18,13 @@ class MailController extends Controller
         $message = $request->message;
         $name = ucwords($request->name);
         $msg = "
-        Name: $name,<br>
+        Hello: $name,<br>
         Email: $email,<br>
         Contact no.: $contact,<br>
-        <p>$message</p>
+        <p>Dummy Mail</p>
+
+        Saif<br>
+        SVC</p>
         ";
         Mail::to($to)->send(new ContactMail($email, $msg, $subject, $contact));
         return redirect()->back()->with('Success', 'Email sent successfully!');

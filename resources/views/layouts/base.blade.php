@@ -4,9 +4,9 @@
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <meta name="author" content="ANZOX ENINEERING PVT. LTD." />
-    <meta name="description" content="ANZOX ENINEERING PVT. LTD.">
-    <link rel="icon" type="image/png" href="{{ asset('Asset/images/anzox/anzox-icon.png') }}" />
+    <meta name="author" content="SPACE VALVES & CONTROLS PVT. LTD." />
+    <meta name="description" content="SPACE VALVES & CONTROLS PVT. LTD.">
+    <link rel="icon" type="image/png" href="{{ asset('Asset/images/anzox/SVClogo.png') }}" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>SVC</title>
     <link href="{{ asset('Asset/css/plugins.css') }}" rel="stylesheet">
