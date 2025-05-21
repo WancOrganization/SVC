@@ -63,7 +63,7 @@
 
     <div class="header-inner" style="height:87px">
 
-        <div class="container">
+        <div class="container bg-light pb-2 pt-2">
             <!--Logo-->
             <div id="logo">
                 <a href="/">

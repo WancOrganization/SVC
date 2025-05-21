@@ -82,30 +82,29 @@
     <section class="" id="about">
         <div class="container">
             <div class="row">
-                <div class="col-lg-2">
-                    <div class="text-start">
-                        <h2><img src="{{ asset('Asset/images/anzox/SVClogo.png') }}" alt="" width="80%">
-                        </h2>
+                <div class="col-lg-2 pb-2">
+                    <div class="text-center">
+                       <img src="{{ asset('Asset/images/anzox/SVClogo.png') }}" alt="" width="80%">
                     </div>
                 </div>
-                <div class="col-lg-10">
+                <div class="col-lg-10 pb-2">
                     <div class="row" style="font-family: montserrat">
-                        <div class="col-lg-4">
-                            SVC Valves is a leading manufacturer and supplier of industrial valves in India.
+                        <div class="col-lg-4 p-2">
+                             Space Valves & Controls is a leading manufacturer and supplier of industrial valves in India.
                             We offer a comprehensive range of products, including gate valves, globe valves, swing
                             check valves, forged gate globe check valves, trunnion-mounted ball valves, and floating ball
                             valves. <br> <br> Our valves are available in various sizes, pressure ratings, and materials
                             such as carbon steel, alloy steel, stainless steel, duplex, and monel.
                         </div>
-                        <div class="col-lg-4">
-                            Founded by a technocrat with 29 years of expertise in valve manufacturing, SteelStrong Valves
+                        <div class="col-lg-4 p-2">
+                            Founded by a technocrat with expertise in valve manufacturing, Space Valves & Controls
                             has established a reputation for precision and reliability. To serve global markets, we operate
                             two advanced manufacturing facilities in Navi Mumbai and Sanand, equipped with cutting-edge
                             technology. <br><br> Our skilled engineers ensure excellence at every stage from design and
                             material selection to production, assembly, and rigorous testing guaranteeing superior
                             performance and customer satisfaction.
                         </div>
-                        <div class="col-lg-4">
+                        <div class="col-lg-4 p-2">
                             Our dedication to excellence is reflected in our certifications, including ISO 9001, ISO 14001,
                             ISO 18001, CE Marking, CE-PED, IBR, API 6D, and API 600, demonstrating compliance with global
                             industry standards.
@@ -180,7 +179,7 @@
             </div>
             <h1 class="text-center fw-bold my-5" style="color:#005199">SPACE VALVES & CONTROLS</h1>
             <div class="row justify-content-evenly" style="font-family: montserrat">
-                <div class="col-lg-5 p-4 animated visible fadeInLeft" data-animate="fadeInLeft"
+                <div class="col-lg-5 pb-4 m-3 animated visible fadeInLeft" data-animate="fadeInLeft"
                     style="border-color: #005199; border-radius:10px; border:1px solid #005199 ">
                     <div class="p-c m-0">
                         <h2 class="text-center" style="color: #005199">WHO WE ARE ?</h2>
@@ -199,7 +198,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-5 p-4 animated visible fadeInRight" data-animate="fadeInRight"
+                <div class="col-lg-5 p-4 m-3 animated visible fadeInRight" data-animate="fadeInRight"
                     style="border-color: #005199; border-radius:10px; border:1px solid #005199 ">
                     <div class="p-c m-0">
                         <h2 class="text-center" style="color: #005199">Quality Policy</h2>
@@ -349,7 +348,7 @@
                                 style="width:100%; height:350px; object-fit:contain;">
                         </div>
                         <div class="team-desc m-0 p-cb p-5" style="background-color: #005199">
-                            <a href="/bgate-globe-check-valve" style="text-decoration: none">
+                            <a href="/gate-globe-check-valve" style="text-decoration: none">
                                 <h2 class="fw-semibold" style="font-family:Verdana; color:#ffdd00">Gate Globe &
                                     Check Valve</h2>
                                 <span></span>
@@ -371,12 +370,12 @@
 
     {{-- CONTACT US --}}
     <section class="pt-0" id="contact-us">
-        <div class="container w-50">
+        <div class="container">
             <div class="row">
                 {{-- <div class="col-lg-6"> --}}
                 <h3 class="text-uppercase text-center fw-semibold" style="font-family: Verdana; color:#005199">Get In
                     Touch</h3>
-                <p style="font-family: montserrat">
+                <p style="font-family: montserrat" class=" text-center">
                     <strong>Have questions, suggestions, or need support? We’re here to help!</strong> <br>
                     Whether you need details about our products, want to share feedback, or need help with your order, feel
                     free to contact us using any of the methods below. We’re committed to making your experience smooth and

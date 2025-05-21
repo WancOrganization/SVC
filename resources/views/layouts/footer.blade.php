@@ -54,7 +54,7 @@
                                                 class="fa fa-phone m-2"> </i>+91 70454 73377 <br> &nbsp; &nbsp; &nbsp;
                                             &nbsp; +91 97697 97973</a></li>
                                     <li class="social-instagram"><a style="text-decoration: none" href=""><i
-                                                class="fa fa-envelope  m-2"></i>www.spacevalvescontrol.com</a></li>
+                                                class="fa fa-envelope  m-2"></i>www.spacevalvescontrols.com</a></li>
                                 </ul>
                             </div>
                         </div>
