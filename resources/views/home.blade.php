@@ -79,12 +79,12 @@
     </div>
 
     <!--end: Inspiro Slider -->
-    <section class="pb-1" id="about">
+    <section class="" id="about">
         <div class="container">
             <div class="row">
                 <div class="col-lg-3 pb-2">
                     <div class="text-center">
-                        <img src="{{ asset('Asset/images/anzox/SVClogo.png') }}" alt="" width="35%">
+                        <img src="{{ asset('Asset/images/anzox/SVClogo.png') }}" alt="" style="width: 30% ; max-width:150px">
                     </div>
                 </div>
                 <div class="col-lg-9 pb-2">
@@ -174,10 +174,9 @@
         <div class="container">
             <div class="container">
                 <div class="text-center">
-                    <img class="p-lg-5" src="{{ asset('Asset/images/anzox/SVClogo.png') }}" alt="SVC Logo" class="img-fluid"
-                        style="width: 25%;">
+                    <img src="{{ asset('Asset/images/anzox/SVClogo.png') }}" alt="SVC Logo" class="img-fluid"
+                        style="width: 30%; max-width:100px">
                 </div>
-
             </div>
             <h1 class="text-center fw-bold mb-5" style="color:#005199">SPACE VALVES & CONTROLS</h1>
             <div class="row justify-content-evenly" style="font-family: montserrat">
