@@ -79,18 +79,18 @@
     </div>
 
     <!--end: Inspiro Slider -->
-    <section class="" id="about">
+    <section class="pb-1" id="about">
         <div class="container">
             <div class="row">
-                <div class="col-lg-2 pb-2">
+                <div class="col-lg-3 pb-2">
                     <div class="text-center">
-                       <img src="{{ asset('Asset/images/anzox/SVClogo.png') }}" alt="" width="80%">
+                        <img src="{{ asset('Asset/images/anzox/SVClogo.png') }}" alt="" width="35%">
                     </div>
                 </div>
-                <div class="col-lg-10 pb-2">
+                <div class="col-lg-9 pb-2">
                     <div class="row" style="font-family: montserrat">
                         <div class="col-lg-4 p-2">
-                             Space Valves & Controls is a leading manufacturer and supplier of industrial valves in India.
+                            Space Valves & Controls is a leading manufacturer and supplier of industrial valves in India.
                             We offer a comprehensive range of products, including gate valves, globe valves, swing
                             check valves, forged gate globe check valves, trunnion-mounted ball valves, and floating ball
                             valves. <br> <br> Our valves are available in various sizes, pressure ratings, and materials
@@ -173,13 +173,15 @@
     <section class="pt-0">
         <div class="container">
             <div class="container">
-                <div class="heading-text text-white text-center heading-section">
-                    <h2><img src="{{ asset('Asset/images/anzox/SVClogo.png') }}" alt="" width="15%"></h2>
+                <div class="text-center">
+                    <img class="p-lg-5" src="{{ asset('Asset/images/anzox/SVClogo.png') }}" alt="SVC Logo" class="img-fluid"
+                        style="width: 25%;">
                 </div>
+
             </div>
-            <h1 class="text-center fw-bold my-5" style="color:#005199">SPACE VALVES & CONTROLS</h1>
+            <h1 class="text-center fw-bold mb-5" style="color:#005199">SPACE VALVES & CONTROLS</h1>
             <div class="row justify-content-evenly" style="font-family: montserrat">
-                <div class="col-lg-5 pb-4 m-3 animated visible fadeInLeft" data-animate="fadeInLeft"
+                <div class="col-lg-5 p-4 m-lg-3 animated visible fadeInLeft" data-animate="fadeInLeft"
                     style="border-color: #005199; border-radius:10px; border:1px solid #005199 ">
                     <div class="p-c m-0">
                         <h2 class="text-center" style="color: #005199">WHO WE ARE ?</h2>
@@ -198,7 +200,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-5 p-4 m-3 animated visible fadeInRight" data-animate="fadeInRight"
+                <div class="col-lg-5 p-4 m-lg-3 animated visible fadeInRight" data-animate="fadeInRight"
                     style="border-color: #005199; border-radius:10px; border:1px solid #005199 ">
                     <div class="p-c m-0">
                         <h2 class="text-center" style="color: #005199">Quality Policy</h2>
@@ -301,7 +303,8 @@
                 <h2 class="fw-bold">OUR PRODUCTS</h2>
             </div>
             <div class="row">
-                <div class="team-member text-center col-md-4 animated visible fadeInLeft p-3" data-animate="fadeInLeft">
+                <div class="team-member text-center col-md-4 animated visible fadeInLeft p-lg-3"
+                    data-animate="fadeInLeft">
                     <div class="card">
                         <div class="team-image mb-0 text-center p-2">
                             <img src="{{ asset('Asset/images/anzox/butterflyvalve.png') }}"
@@ -321,7 +324,8 @@
                     </div>
                 </div>
 
-                <div class="team-member text-center col-md-4 animated visible fadeInDown p-3" data-animate="fadeInDown">
+                <div class="team-member text-center col-md-4 animated visible fadeInDown p-lg-3"
+                    data-animate="fadeInDown">
                     <div class="card">
                         <div class="team-image mb-0 text-center p-2">
                             <img src="{{ asset('Asset/images/anzox/ballvalve.webp') }}"
@@ -341,7 +345,8 @@
                     </div>
                 </div>
 
-                <div class="team-member text-center col-md-4 animated visible fadeInRight p-3" data-animate="fadeInRight">
+                <div class="team-member text-center col-md-4 animated visible fadeInRight p-lg-3"
+                    data-animate="fadeInRight">
                     <div class="card">
                         <div class="team-image mb-0 text-center p-2">
                             <img src="{{ asset('Asset/images/anzox/gateglobevalve.jpg') }}"

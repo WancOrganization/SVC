@@ -83,9 +83,16 @@
                             <img src="{{ asset('Asset/images/anzox/butterflyvalve1.png') }}" data-animate="fadeInUp">
                         </a> --}}
                         {{-- <br><br> --}}
-                        <a title="" data-lightbox="gallery-image" href="images/portfolio/project/41.jpg">
-                            <img src="{{ asset('Asset/images/anzox/butterflyvalve1.2.png') }}" data-animate="fadeInUp">
-                        </a>
+                        <div class="text-center">
+                            <a title="" data-lightbox="gallery-image"
+                                href="{{ asset('Asset/images/anzox/butterflyvalve1.2.png') }}">
+                                <img src="{{ asset('Asset/images/anzox/butterflyvalve1.2.png') }}"
+                                    class="img-fluid mx-auto d-block" style="width: 100%; max-width: 700px;"
+                                    alt="Butterfly Valve">
+                            </a>
+                        </div>
+
+
                         <br><br>
                         {{-- <a title="" data-lightbox="gallery-image" href="images/portfolio/project/42.jpg">
                             <img src="{{ asset('Asset/images/anzox/parking-photos/Stack3.jpeg') }}" data-animate="fadeInUp">
@@ -113,9 +120,15 @@
                                 <img src="{{ asset('Asset/images/anzox/stackParking1.png') }}" data-animate="fadeInUp">
                             </a>
                             <br><br> --}}
-                        <a title="" data-lightbox="gallery-image" href="images/portfolio/project/41.jpg">
-                            <img src="{{ asset('Asset/images/anzox/butterflyvalve2.png') }}" height="450px" width="450px" data-animate="fadeInUp">
-                        </a>
+                        <div class="text-center">
+                            <a title="" data-lightbox="gallery-image"
+                                href="{{ asset('Asset/images/anzox/butterflyvalve2.png') }}">
+                                <img src="{{ asset('Asset/images/anzox/butterflyvalve2.png') }}"
+                                    class="img-fluid mx-auto d-block" style="width: 100%; max-width: 500px;"
+                                    alt="Butterfly Valve">
+                            </a>
+                        </div>
+
                         <br><br>
                         {{-- <a title="" data-lightbox="gallery-image" href="images/portfolio/project/42.jpg">
                             <img src="{{ asset('Asset/images/anzox/parking-photos/Stack3.jpeg') }}" data-animate="fadeInUp">
@@ -290,9 +303,15 @@
                             <img src="{{ asset('Asset/images/anzox/butterflyvalve1.png') }}" data-animate="fadeInUp">
                         </a> --}}
                         {{-- <br><br> --}}
-                        <a title="" data-lightbox="gallery-image" href="images/portfolio/project/41.jpg">
-                            <img src="{{ asset('Asset/images/anzox/butterflyvalve3.png') }}" height="450px" width="550px" data-animate="fadeInUp">
-                        </a>
+                        <div class="text-center">
+                            <a title="" data-lightbox="gallery-image"
+                                href="{{ asset('Asset/images/anzox/butterflyvalve3.png') }}">
+                                <img src="{{ asset('Asset/images/anzox/butterflyvalve3.png') }}"
+                                    class="img-fluid mx-auto d-block" style="width: 100%; max-width: 500px;"
+                                    alt="Butterfly Valve">
+                            </a>
+                        </div>
+
                         <br><br>
                         {{-- <a title="" data-lightbox="gallery-image" href="images/portfolio/project/42.jpg">
                             <img src="{{ asset('Asset/images/anzox/parking-photos/Stack3.jpeg') }}" data-animate="fadeInUp">
@@ -320,9 +339,15 @@
                                 <img src="{{ asset('Asset/images/anzox/stackParking1.png') }}" data-animate="fadeInUp">
                             </a>
                             <br><br> --}}
-                        <a title="" data-lightbox="gallery-image" href="images/portfolio/project/41.jpg">
-                            <img src="{{ asset('Asset/images/anzox/butterflyvalve4.png') }}" height="450px" width="400px" data-animate="fadeInUp">
-                        </a>
+                        <div class="text-center p-lg-5">
+                            <a title="" data-lightbox="gallery-image"
+                                href="{{ asset('Asset/images/anzox/butterflyvalve4.png') }}">
+                                <img src="{{ asset('Asset/images/anzox/butterflyvalve4.png') }}"
+                                    class="img-fluid mx-auto d-block" style="width: 100%; max-width: 400px;"
+                                    alt="Butterfly Valve">
+                            </a>
+                        </div>
+
                         <br><br>
                         {{-- <a title="" data-lightbox="gallery-image" href="images/portfolio/project/42.jpg">
                             <img src="{{ asset('Asset/images/anzox/parking-photos/Stack3.jpeg') }}" data-animate="fadeInUp">
@@ -523,9 +548,12 @@
                             <img src="{{ asset('Asset/images/anzox/butterflyvalve1.png') }}" data-animate="fadeInUp">
                         </a> --}}
                         {{-- <br><br> --}}
-                        <a title="" data-lightbox="gallery-image" href="images/portfolio/project/41.jpg">
-                            <img src="{{ asset('Asset/images/anzox/butterflyvalve5.png') }}" height="550px" width="400px" data-animate="fadeInUp">
-                        </a>
+                        <a title="" data-lightbox="gallery-image"
+                                href="{{ asset('Asset/images/anzox/butterflyvalve5.png') }}">
+                                <img src="{{ asset('Asset/images/anzox/butterflyvalve5.png') }}"
+                                    class="img-fluid mx-auto d-block" style="width: 100%; max-width: 400px;"
+                                    alt="Butterfly Valve">
+                            </a>
                         <br><br>
                         {{-- <a title="" data-lightbox="gallery-image" href="images/portfolio/project/42.jpg">
                             <img src="{{ asset('Asset/images/anzox/parking-photos/Stack3.jpeg') }}" data-animate="fadeInUp">
