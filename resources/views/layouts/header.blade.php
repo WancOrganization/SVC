@@ -63,12 +63,13 @@
 
     <div class="header-inner" style="height:87px">
 
-        <div class="container bg-light pb-2 pt-2">
+        <div class="container bg-light pb-1 pt-1">
             <!--Logo-->
             <div id="logo">
                 <a href="/">
                     <span class="logo-default align-content-center">
-                        <img class="pb-1" src="{{ asset('Asset/images/anzox/SVClogo.png') }}" alt="" width="90px"></span>
+                        <img class="pb-1" src="{{ asset('Asset/images/anzox/SVClogo.png') }}" alt=""
+                            width="90px"></span>
 
                     <span class="logo-dark"> <img src="{{ asset('Asset/images/anzox/SVClogo.png') }}" alt=""
                             width="110px"></span>
@@ -91,7 +92,8 @@
                             <li><a href="/#about" style="text-decoration: none">ABOUT</a></li>
                             <li class="dropdown"><a href="#" style="text-decoration: none">OUR PRODUCTS</a>
                                 <ul class="dropdown-menu">
-                                    <li class="dropdown-submenu"><a href="/butterfly-valve" style="text-decoration: none">BUTTERFLY VALVE</a>
+                                    <li class="dropdown-submenu"><a href="/butterfly-valve"
+                                            style="text-decoration: none">BUTTERFLY VALVE</a>
                                         {{-- <ul class="dropdown-menu">
                                             <li><a href="/stack-parking">STACK PARKING</a> </li>
                                             <li><a href="/cantilever-parking">CANTILEVER PARKING</a> </li>
@@ -102,7 +104,8 @@
                                         </ul> --}}
                                     </li>
 
-                                    <li class="dropdown-submenu"><a href="/ball-valve" style="text-decoration: none">BALL VALVE</a>
+                                    <li class="dropdown-submenu"><a href="/ball-valve"
+                                            style="text-decoration: none">BALL VALVE</a>
                                         {{-- <ul class="dropdown-menu">
                                             <li><a href="/puzzle-parking">PUZZLE PARKING</a> </li>
                                             <li><a href="/tower-parking">TOWER PARKING</a> </li>
@@ -112,7 +115,8 @@
                                         </ul> --}}
                                     </li>
 
-                                    <li class="dropdown-submenu"><a href="gate-globe-check-valve" style="text-decoration: none">GATE, GLOBE & CHECK
+                                    <li class="dropdown-submenu"><a href="gate-globe-check-valve"
+                                            style="text-decoration: none">GATE, GLOBE & CHECK
                                             VALVE</a>
                                         {{-- <ul class="dropdown-menu">
                                             <li><a href="/puzzle-parking">PUZZLE PARKING</a> </li>
@@ -140,17 +144,11 @@
                             {{-- <li><a href="#">
                                     <div class="btn btn-danger"><i class="fa fa-book"></i> CATALOUGE</div>
                             </a></li> --}}
-
                         </ul>
                     </nav>
-
                 </div>
-
             </div>
             <!--end: Navigation-->
-
-
-
 
         </div>
     </div>

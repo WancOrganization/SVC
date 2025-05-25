@@ -3,18 +3,40 @@
     {{-- 1 PRODUCT --}}
     <section id="page-content" class="p-b-0">
         <div class="container">
-            <div class="heading-text text-center heading-section">
-                <h4 class="fw-semibold p-3"
+            <div class="heading-text text-center heading-section mb-5">
+                <h2 class="fw-semibold p-2"
                     style="background-color: #005199; color:#ffdd00; font-family:Verdana; border-radius:10px">GATE, GLOBE
-                    & CHECK VALVES</h4>
+                    & CHECK VALVES</h2>
             </div>
             <div class="row m-b-40">
-                <div class="sidebar sticky-sidebar col-lg-5">
+                <div class="sidebar col-lg-5">
                     <div class="heading-text text-left heading-section">
                         <h5 class="text-center fw-semibold p-3"
                             style="background-color: #005199; color:#ffdd00; border-radius:10px; font-family: Verdana;">CAST
                             VALVE
                         </h5>
+                    </div>
+                    <div class="col-lg-7 d-block d-lg-none align-content-center">
+                        <div class="text-center" data-lightbox="gallery">
+                            {{-- <a title="" data-lightbox="gallery-image" href="images/portfolio/project/30.jpg">
+                            <img src="{{ asset('Asset/images/anzox/butterflyvalve1.png') }}" data-animate="fadeInUp">
+                        </a> --}}
+                            {{-- <br><br> --}}
+                            <a title="" data-lightbox="gallery-image"
+                                href="{{ asset('Asset/images/anzox/gatevalve1.jpg') }}">
+                                <img src="{{ asset('Asset/images/anzox/gatevalve1.jpg') }}"
+                                    class="img-fluid mx-auto d-block" style="width: 100%; max-width: 500px;"
+                                    alt="Gate Valve">
+                            </a>
+                            <br>
+                            {{-- <a title="" data-lightbox="gallery-image" href="images/portfolio/project/42.jpg">
+                            <img src="{{ asset('Asset/images/anzox/parking-photos/Stack3.jpeg') }}" data-animate="fadeInUp">
+                        </a> --}}
+                        </div>
+                        {{-- <div class="text-dark mt-3">
+                        *NOTE*
+                        These are only Concept Images. For details information contact our project & sales engineers
+                    </div> --}}
                     </div>
                     {{-- <div class="project-description text-dark">
                         <h3>The Valves May Be Water Type / Lugged Water Type With Lever Operation (Normally Up To DN150
@@ -93,7 +115,7 @@
                     <div class="mt-3"> <a href="/#contact-us" class="btn btn-roundeded"
                             style="background-color: #005199; color:#ffdd00 ; border-color:#fff">BOOK NOW</a></div>
                 </div>
-                <div <div class="col-lg-7 align-content-center">
+                <div class="col-lg-7 d-none d-lg-block align-content-center">
                     <div class="text-center" data-lightbox="gallery">
                         {{-- <a title="" data-lightbox="gallery-image" href="images/portfolio/project/30.jpg">
                             <img src="{{ asset('Asset/images/anzox/butterflyvalve1.png') }}" data-animate="fadeInUp">
@@ -102,13 +124,12 @@
                         <a title="" data-lightbox="gallery-image"
                             href="{{ asset('Asset/images/anzox/gatevalve1.jpg') }}">
                             <img src="{{ asset('Asset/images/anzox/gatevalve1.jpg') }}" class="img-fluid mx-auto d-block"
-                                style="width: 100%; max-width: 400px;" alt="Butterfly Valve">
+                                style="width: 100%; max-width: 500px;" alt="Gate Valve">
                         </a>
-                        <br><br>
+                        <br>
                         {{-- <a title="" data-lightbox="gallery-image" href="images/portfolio/project/42.jpg">
                             <img src="{{ asset('Asset/images/anzox/parking-photos/Stack3.jpeg') }}" data-animate="fadeInUp">
                         </a> --}}
-                        <br><br>
                     </div>
                     {{-- <div class="text-dark mt-3">
                         *NOTE*
@@ -117,7 +138,7 @@
                 </div>
             </div>
         </div>
-        <hr style="color: #005199">
+        <hr style="color: #005199; height:2px">
     </section>
     {{-- 1 PRODUCT END --}}
 
@@ -125,7 +146,14 @@
     <section id="page-content" class="p-b-0">
         <div class="container">
             <div class="row m-b-40">
-                <div <div class="col-lg-7 align-content-center">
+                <div class="d-block d-lg-none heading-text text-left heading-section">
+                    <h5 class="text-center fw-semibold p-3"
+                        style="background-color: #005199; color:#ffdd00; border-radius:10px; font-family: Verdana;">
+                        FORGED VALVES (GATE, GLOBE
+                        AND CHECK)
+                    </h5>
+                </div>
+                <div class="col-lg-7 align-content-center">
                     <div class="text-center" data-lightbox="gallery">
                         {{-- <a title="" data-lightbox="gallery-image" href="images/portfolio/project/30.jpg">
                                 <img src="{{ asset('Asset/images/anzox/stackParking1.png') }}" data-animate="fadeInUp">
@@ -134,13 +162,11 @@
                         <a title="" data-lightbox="gallery-image"
                             href="{{ asset('Asset/images/anzox/gatevalve2.jpg') }}">
                             <img src="{{ asset('Asset/images/anzox/gatevalve2.jpg') }}" class="img-fluid mx-auto d-block"
-                                style="width: 100%; max-width: 500px;" alt="Butterfly Valve">
+                                style="width: 100%; max-width: 500px;" alt="Gate Valve">
                         </a>
-                        <br><br>
                         {{-- <a title="" data-lightbox="gallery-image" href="images/portfolio/project/42.jpg">
                             <img src="{{ asset('Asset/images/anzox/parking-photos/Stack3.jpeg') }}" data-animate="fadeInUp">
                         </a> --}}
-                        <br><br>
                     </div>
                     {{-- <div class="text-dark mt-3">
                         *NOTE*
@@ -148,8 +174,8 @@
                     </div> --}}
                 </div>
 
-                <div class="sidebar sticky-sidebar col-lg-5">
-                    <div class="heading-text text-left heading-section">
+                <div class="sidebar col-lg-5">
+                    <div class="d-none d-lg-block heading-text text-left heading-section">
                         <h5 class="text-center fw-semibold p-3"
                             style="background-color: #005199; color:#ffdd00; border-radius:10px; font-family: Verdana;">
                             FORGED VALVES (GATE, GLOBE
@@ -234,7 +260,7 @@
                 </div>
             </div>
         </div>
-        <hr>
+        <hr style="color:#005199; height:2px">
     </section>
     {{-- 2 PRODUCT END --}}
 
@@ -242,12 +268,33 @@
     <section id="page-content" class="p-b-0">
         <div class="container">
             <div class="row m-b-40">
-                <div class="sidebar sticky-sidebar col-lg-5">
+                <div class="sidebar col-lg-5">
                     <div class="heading-text text-left heading-section">
                         <h5 class="text-center fw-semibold p-3"
                             style="background-color: #005199; color:#ffdd00; border-radius:10px; font-family: Verdana;">
                             DUAL PLATE CHECKVALVES
                         </h5>
+                    </div>
+                    <div class="col-lg-7 d-block d-lg-none align-content-center">
+                        <div class="text-center" data-lightbox="gallery">
+                            {{-- <a title="" data-lightbox="gallery-image" href="images/portfolio/project/30.jpg">
+                            <img src="{{ asset('Asset/images/anzox/butterflyvalve1.png') }}" data-animate="fadeInUp">
+                        </a> --}}
+                            {{-- <br><br> --}}
+                            <a title="" data-lightbox="gallery-image"
+                                href="{{ asset('Asset/images/anzox/gatevalve3.jpg') }}">
+                                <img src="{{ asset('Asset/images/anzox/gatevalve3.jpg') }}"
+                                    class="img-fluid mx-auto d-block" style="width: 100%; max-width: 400px;"
+                                    alt="Gate Valve">
+                            </a>
+                            {{-- <a title="" data-lightbox="gallery-image" href="images/portfolio/project/42.jpg">
+                            <img src="{{ asset('Asset/images/anzox/parking-photos/Stack3.jpeg') }}" data-animate="fadeInUp">
+                        </a> --}}
+                        </div>
+                        {{-- <div class="text-dark mt-3">
+                        *NOTE*
+                        These are only Concept Images. For details information contact our project & sales engineers
+                    </div> --}}
                     </div>
                     {{-- <div class="project-description text-dark">
                         <h3>The Valves May Be Water Type / Lugged Water Type With Lever Operation (Normally Up To DN150
@@ -327,7 +374,7 @@
                     <div class="mt-3"> <a href="/#contact-us" class="btn btn-roundeded"
                             style="background-color: #005199; color:#ffdd00 ; border-color:#fff">BOOK NOW</a></div>
                 </div>
-                <div <div class="col-lg-7 align-content-center">
+                <div class="col-lg-7 d-none d-lg-block align-content-center">
                     <div class="text-center" data-lightbox="gallery">
                         {{-- <a title="" data-lightbox="gallery-image" href="images/portfolio/project/30.jpg">
                             <img src="{{ asset('Asset/images/anzox/butterflyvalve1.png') }}" data-animate="fadeInUp">
@@ -336,13 +383,12 @@
                         <a title="" data-lightbox="gallery-image"
                             href="{{ asset('Asset/images/anzox/gatevalve3.jpg') }}">
                             <img src="{{ asset('Asset/images/anzox/gatevalve3.jpg') }}" class="img-fluid mx-auto d-block"
-                                style="width: 100%; max-width: 400px;" alt="Butterfly Valve">
+                                style="width: 100%; max-width: 400px;" alt="Gate Valve">
                         </a>
-                        <br><br>
+                        <br>
                         {{-- <a title="" data-lightbox="gallery-image" href="images/portfolio/project/42.jpg">
                             <img src="{{ asset('Asset/images/anzox/parking-photos/Stack3.jpeg') }}" data-animate="fadeInUp">
                         </a> --}}
-                        <br><br>
                     </div>
                     {{-- <div class="text-dark mt-3">
                         *NOTE*
@@ -351,7 +397,7 @@
                 </div>
             </div>
         </div>
-        <hr>
+        <hr style="color:#005199; height:2px">
     </section>
     {{-- 3 PRODUCT END --}}
 
@@ -359,7 +405,13 @@
     <section id="page-content" class="p-b-0">
         <div class="container">
             <div class="row m-b-40">
-                <div <div class="col-lg-7 align-content-center">
+                <div class="d-block d-lg-none heading-text text-left heading-section">
+                    <h5 class="text-center fw-semibold p-3"
+                        style="background-color: #005199; color:#ffdd00; border-radius:10px; font-family: Verdana;">
+                        WAFER CHECK VALVES
+                    </h5>
+                </div>
+                <div class="col-lg-7 align-content-center">
                     <div class="text-center" data-lightbox="gallery">
                         {{-- <a title="" data-lightbox="gallery-image" href="images/portfolio/project/30.jpg">
                                 <img src="{{ asset('Asset/images/anzox/stackParking1.png') }}" data-animate="fadeInUp">
@@ -368,13 +420,11 @@
                         <a title="" data-lightbox="gallery-image"
                             href="{{ asset('Asset/images/anzox/gatevalve4.jpg') }}">
                             <img src="{{ asset('Asset/images/anzox/gatevalve4.jpg') }}" class="img-fluid mx-auto d-block"
-                                style="width: 100%; max-width: 400px;" alt="Butterfly Valve">
+                                style="width: 100%; max-width: 400px;" alt="Gate Valve">
                         </a>
-                        <br><br>
                         {{-- <a title="" data-lightbox="gallery-image" href="images/portfolio/project/42.jpg">
                             <img src="{{ asset('Asset/images/anzox/parking-photos/Stack3.jpeg') }}" data-animate="fadeInUp">
                         </a> --}}
-                        <br><br>
                     </div>
                     {{-- <div class="text-dark mt-3">
                         *NOTE*
@@ -382,8 +432,8 @@
                     </div> --}}
                 </div>
 
-                <div class="sidebar sticky-sidebar col-lg-5">
-                    <div class="heading-text text-left heading-section">
+                <div class="sidebar col-lg-5">
+                    <div class="d-none d-lg-block heading-text text-left heading-section">
                         <h5 class="text-center fw-semibold p-3"
                             style="background-color: #005199; color:#ffdd00; border-radius:10px; font-family: Verdana;">
                             WAFER CHECK VALVES
@@ -458,7 +508,7 @@
                 </div>
             </div>
         </div>
-        <hr>
+        <hr style="color:#005199; height:2px">
     </section>
     {{-- 4 PRODUCT END --}}
 
@@ -466,12 +516,34 @@
     <section id="page-content" class="p-b-0">
         <div class="container">
             <div class="row m-b-40">
-                <div class="sidebar sticky-sidebar col-lg-5">
+                <div class="sidebar col-lg-5">
                     <div class="heading-text text-left heading-section">
                         <h5 class="text-center fw-semibold p-3"
                             style="background-color: #005199; color:#ffdd00; border-radius:10px; font-family: Verdana;">
                             NON-SLAM CHECK VALVES</h5>
                     </div>
+                    <div class="col-lg-7 d-block d-lg-none align-content-center">
+                        <div class="text-center" data-lightbox="gallery">
+                            {{-- <a title="" data-lightbox="gallery-image" href="images/portfolio/project/30.jpg">
+                            <img src="{{ asset('Asset/images/anzox/butterflyvalve1.png') }}" data-animate="fadeInUp">
+                        </a> --}}
+                            {{-- <br><br> --}}
+                            <a title="" data-lightbox="gallery-image"
+                                href="{{ asset('Asset/images/anzox/gatevalve5.jpg') }}">
+                                <img src="{{ asset('Asset/images/anzox/gatevalve5.jpg') }}"
+                                    class="img-fluid mx-auto d-block" style="width: 100%; max-width: 350px;"
+                                    alt="Gate Valve">
+                            </a>
+                            {{-- <a title="" data-lightbox="gallery-image" href="images/portfolio/project/42.jpg">
+                            <img src="{{ asset('Asset/images/anzox/parking-photos/Stack3.jpeg') }}" data-animate="fadeInUp">
+                        </a> --}}
+                        </div>
+                        {{-- <div class="text-dark mt-3">
+                        *NOTE*
+                        These are only Concept Images. For details information contact our project & sales engineers
+                    </div> --}}
+                    </div>
+
                     {{-- <div class="project-description text-dark">
                         <h3>Lined Butterflyvalves Are Used For Highly Corrosive Applications Like Concentrated Acids And
                             Alkali.</h3>
@@ -486,7 +558,7 @@
                         <li>Cost effective system</li>
                     </ul> --}}
                     <div class="mt-5">
-                        <h3 style="color: #005199; font-family:Verdana; ">GENERAL SPECIFICATIONS</h3>
+                        <h3 style="color: #005199; font-family:Verdana;">GENERAL SPECIFICATIONS</h3>
                         <div class="table-responsive">
                             <table class="table table-bordered text-dark" style="font-family: montserrat">
                                 <tbody>
@@ -534,7 +606,7 @@
                     <div class="mt-3"> <a href="/#contact-us" class="btn btn-roundeded"
                             style="background-color: #005199; color:#ffdd00 ; border-color:#fff">BOOK NOW</a></div>
                 </div>
-                <div <div class="col-lg-7 align-content-center">
+                <div class="col-lg-7 d-none d-lg-block align-content-center">
                     <div class="text-center" data-lightbox="gallery">
                         {{-- <a title="" data-lightbox="gallery-image" href="images/portfolio/project/30.jpg">
                             <img src="{{ asset('Asset/images/anzox/butterflyvalve1.png') }}" data-animate="fadeInUp">
@@ -543,13 +615,11 @@
                         <a title="" data-lightbox="gallery-image"
                             href="{{ asset('Asset/images/anzox/gatevalve5.jpg') }}">
                             <img src="{{ asset('Asset/images/anzox/gatevalve5.jpg') }}" class="img-fluid mx-auto d-block"
-                                style="width: 100%; max-width: 400px;" alt="Butterfly Valve">
+                                style="width: 100%; max-width: 350px;" alt="Gate Valve">
                         </a>
-                        <br><br>
                         {{-- <a title="" data-lightbox="gallery-image" href="images/portfolio/project/42.jpg">
                             <img src="{{ asset('Asset/images/anzox/parking-photos/Stack3.jpeg') }}" data-animate="fadeInUp">
                         </a> --}}
-                        <br><br>
                     </div>
                     {{-- <div class="text-dark mt-3">
                         *NOTE*
@@ -558,7 +628,7 @@
                 </div>
             </div>
         </div>
-        <hr>
+        <hr style="color:#005199; height:2px">
     </section>
     {{-- 5 PRODUCT END --}}
 
@@ -566,7 +636,13 @@
     <section id="page-content" class="p-b-0">
         <div class="container">
             <div class="row m-b-40">
-                <div <div class="col-lg-7 align-content-center">
+                <div class="d-block d-lg-none heading-text text-left heading-section">
+                    <h5 class="text-center fw-semibold p-3"
+                        style="background-color: #005199; color:#ffdd00; border-radius:10px; font-family: Verdana;">
+                        WAFER SINGLE DISC CHECK VALVES
+                    </h5>
+                </div>
+                <div class="col-lg-7 align-content-center">
                     <div class="text-center" data-lightbox="gallery">
                         {{-- <a title="" data-lightbox="gallery-image" href="images/portfolio/project/30.jpg">
                                 <img src="{{ asset('Asset/images/anzox/stackParking1.png') }}" data-animate="fadeInUp">
@@ -575,13 +651,11 @@
                         <a title="" data-lightbox="gallery-image"
                             href="{{ asset('Asset/images/anzox/gatevalve6.jpg') }}">
                             <img src="{{ asset('Asset/images/anzox/gatevalve6.jpg') }}" class="img-fluid mx-auto d-block"
-                                style="width: 100%; max-width: 400px;" alt="Butterfly Valve">
+                                style="width: 100%; max-width: 400px;" alt="Gate Valve">
                         </a>
-                        <br><br>
                         {{-- <a title="" data-lightbox="gallery-image" href="images/portfolio/project/42.jpg">
                             <img src="{{ asset('Asset/images/anzox/parking-photos/Stack3.jpeg') }}" data-animate="fadeInUp">
                         </a> --}}
-                        <br><br>
                     </div>
                     {{-- <div class="text-dark mt-3">
                         *NOTE*
@@ -589,8 +663,8 @@
                     </div> --}}
                 </div>
 
-                <div class="sidebar sticky-sidebar col-lg-5">
-                    <div class="heading-text text-left heading-section">
+                <div class="sidebar col-lg-5">
+                    <div class="d-none d-lg-block heading-text text-left heading-section">
                         <h5 class="text-center fw-semibold p-3"
                             style="background-color: #005199; color:#ffdd00; border-radius:10px; font-family: Verdana;">
                             WAFER SINGLE DISC CHECK VALVES

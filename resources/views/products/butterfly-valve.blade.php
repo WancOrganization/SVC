@@ -3,23 +3,52 @@
     {{-- 1 PRODUCT --}}
     <section id="page-content" class="p-b-0">
         <div class="container">
-            <div class="heading-text text-center heading-section">
-                <h4 class="fw-semibold p-3"
+            <div class="heading-text text-center heading-section mb-5">
+                <h2 class="fw-semibold p-2"
                     style="background-color: #005199; color:#ffdd00; border-radius:10px; font-family: Verdana; ">
                     BUTTERFLY
-                    VALVE</h4>
+                    VALVE</h2>
             </div>
             <div class="row m-b-40">
-                <div class="sidebar sticky-sidebar col-lg-5">
+                <div class="sidebar col-lg-5">
                     <div class="heading-text text-left heading-section">
                         <h5 class="text-center fw-semibold p-3"
                             style="background-color: #005199; color:#ffdd00; border-radius:10px; font-family: Verdana; ">
                             RESILENT SEATED WAFER BUTTERFLY VALVE</h5>
                     </div>
+                    <div class="col-lg-7 d-block d-lg-none">
+                        <div class="portfolio-content" data-lightbox="gallery">
+                            {{-- <a title="" data-lightbox="gallery-image" href="images/portfolio/project/30.jpg">
+                                <img src="{{ asset('Asset/images/anzox/butterflyvalve1.png') }}" data-animate="fadeInUp">
+                            </a> --}}
+                            {{-- <br><br> --}}
+                            <div class="text-center">
+                                <a title="" data-lightbox="gallery-image"
+                                    href="{{ asset('Asset/images/anzox/butterflyvalve1.png') }}">
+                                    <img src="{{ asset('Asset/images/anzox/butterflyvalve1.png') }}"
+                                        class="img-fluid mx-auto d-block" style="width: 100%; max-width: 500px;"
+                                        alt="Butterfly Valve">
+                                </a>
+                            </div>
+                            {{-- <br><br> --}}
+                            {{-- <a title="" data-lightbox="gallery-image" href="images/portfolio/project/42.jpg">
+                                <img src="{{ asset('Asset/images/anzox/parking-photos/Stack3.jpeg') }}" data-animate="fadeInUp">
+                            </a> --}}
+                        </div>
+                        {{-- <div class="text-dark mt-3">
+                            *NOTE*
+                            These are only Concept Images. For details information contact our project & sales engineers
+                        </div> --}}
+                    </div>
+                    {{-- <div class="heading-text text-left heading-section">
+                        <h5 class="text-center fw-semibold p-3"
+                            style="background-color: #005199; color:#ffdd00; border-radius:10px; font-family: Verdana; ">
+                            RESILENT SEATED WAFER BUTTERFLY VALVE</h5>
+                    </div> --}}
                     <div class="project-description text-dark" style="font-family: montserrat">
-                        <h3>The Valves May Be Water Type / Lugged Water Type With Lever Operation (Normally Up To DN150
+                        <h6>The Valves May Be Water Type / Lugged Water Type With Lever Operation (Normally Up To DN150
                             (6")) And Quarter Turn Gear Operated For Sizes DN200 And Higher. The Valves Are Bi- Directional
-                            And Suitable For On/Off And Control Applications. The Applicable Standards Are</h3>
+                            And Suitable For On/Off And Control Applications. The Applicable Standards Are</h6>
                     </div>
 
                     {{-- <ul class="list-icon text-dark list-icon-arrow">
@@ -77,7 +106,7 @@
                     <div class="mt-3"> <a href="/#contact-us" class="btn btn-roundeded"
                             style="background-color: #005199; color:#ffdd00 ; border-color:#fff">BOOK NOW</a></div>
                 </div>
-                <div class="col-lg-7">
+                <div class="col-lg-7 d-none d-lg-block">
                     <div class="portfolio-content" data-lightbox="gallery">
                         {{-- <a title="" data-lightbox="gallery-image" href="images/portfolio/project/30.jpg">
                             <img src="{{ asset('Asset/images/anzox/butterflyvalve1.png') }}" data-animate="fadeInUp">
@@ -85,19 +114,16 @@
                         {{-- <br><br> --}}
                         <div class="text-center">
                             <a title="" data-lightbox="gallery-image"
-                                href="{{ asset('Asset/images/anzox/butterflyvalve1.2.png') }}">
-                                <img src="{{ asset('Asset/images/anzox/butterflyvalve1.2.png') }}"
-                                    class="img-fluid mx-auto d-block" style="width: 100%; max-width: 700px;"
+                                href="{{ asset('Asset/images/anzox/butterflyvalve1.png') }}">
+                                <img src="{{ asset('Asset/images/anzox/butterflyvalve1.png') }}"
+                                    class="img-fluid mx-auto d-block" style="width: 100%; max-width: 500px;"
                                     alt="Butterfly Valve">
                             </a>
                         </div>
-
-
                         <br><br>
                         {{-- <a title="" data-lightbox="gallery-image" href="images/portfolio/project/42.jpg">
                             <img src="{{ asset('Asset/images/anzox/parking-photos/Stack3.jpeg') }}" data-animate="fadeInUp">
                         </a> --}}
-                        <br><br>
                     </div>
                     {{-- <div class="text-dark mt-3">
                         *NOTE*
@@ -106,7 +132,7 @@
                 </div>
             </div>
         </div>
-        <hr style="color:#005199">
+        <hr style="color:#005199; height:2px">
     </section>
     {{-- 1 PRODUCT END --}}
 
@@ -114,6 +140,14 @@
     <section id="page-content" class="p-b-0">
         <div class="container">
             <div class="row m-b-40">
+                <div class="d-block d-lg-none heading-text text-left heading-section">
+                    <h5 class="text-center fw-semibold p-3"
+                        style="background-color: #005199; color:#ffdd00; border-radius:10px; font-family: Verdana;">
+                        FLANGED END RESILIENT
+                        SEATED
+                        BUTTERFLY VALVES
+                    </h5>
+                </div>
                 <div class="col-lg-7">
                     <div class="text-center align-content-center" data-lightbox="gallery">
                         {{-- <a title="" data-lightbox="gallery-image" href="images/portfolio/project/30.jpg">
@@ -124,16 +158,13 @@
                             <a title="" data-lightbox="gallery-image"
                                 href="{{ asset('Asset/images/anzox/butterflyvalve2.png') }}">
                                 <img src="{{ asset('Asset/images/anzox/butterflyvalve2.png') }}"
-                                    class="img-fluid mx-auto d-block" style="width: 100%; max-width: 500px;"
+                                    class="img-fluid mx-auto d-block" style="width: 100%; max-width: 450px;"
                                     alt="Butterfly Valve">
                             </a>
                         </div>
-
-                        <br><br>
                         {{-- <a title="" data-lightbox="gallery-image" href="images/portfolio/project/42.jpg">
                             <img src="{{ asset('Asset/images/anzox/parking-photos/Stack3.jpeg') }}" data-animate="fadeInUp">
                         </a> --}}
-                        <br><br>
                     </div>
                     {{-- <div class="text-dark mt-3">
                         *NOTE*
@@ -141,8 +172,8 @@
                     </div> --}}
                 </div>
 
-                <div class="sidebar sticky-sidebar col-lg-5">
-                    <div class="heading-text text-left heading-section">
+                <div class="sidebar  col-lg-5">
+                    <div class="d-none d-lg-block heading-text text-left heading-section">
                         <h5 class="text-center fw-semibold p-3"
                             style="background-color: #005199; color:#ffdd00; border-radius:10px; font-family: Verdana;">
                             FLANGED END RESILIENT
@@ -210,7 +241,7 @@
                 </div>
             </div>
         </div>
-        <hr style="color:#005199">
+        <hr style="color:#005199; height:2px">
     </section>
     {{-- 2 PRODUCT END --}}
 
@@ -218,18 +249,48 @@
     <section id="page-content" class="p-b-0">
         <div class="container">
             <div class="row m-b-40">
-                <div class="sidebar sticky-sidebar col-lg-5">
+                <div class="sidebar col-lg-5">
                     <div class="heading-text text-left heading-section">
                         <h5 class="text-center fw-semibold p-3"
                             style="background-color: #005199; color:#ffdd00; border-radius:10px; font-family: Verdana;">
                             DOUBLE OFFSETBUTTERFLY
                             VALVES</h5>
                     </div>
+                    <div class="col-lg-7 d-block d-lg-none align-content-center">
+                        <div class="text-center" data-lightbox="gallery">
+                            {{-- <a title="" data-lightbox="gallery-image" href="images/portfolio/project/30.jpg">
+                                <img src="{{ asset('Asset/images/anzox/butterflyvalve1.png') }}" data-animate="fadeInUp">
+                            </a> --}}
+                            {{-- <br><br> --}}
+                            <div class="text-center">
+                                <a title="" data-lightbox="gallery-image"
+                                    href="{{ asset('Asset/images/anzox/butterflyvalve3.png') }}">
+                                    <img src="{{ asset('Asset/images/anzox/butterflyvalve3.png') }}"
+                                        class="img-fluid mx-auto d-block" style="width: 100%; max-width: 500px;"
+                                        alt="Butterfly Valve">
+                                </a>
+                            </div>
+                            <br>
+                            {{-- <a title="" data-lightbox="gallery-image" href="images/portfolio/project/42.jpg">
+                                <img src="{{ asset('Asset/images/anzox/parking-photos/Stack3.jpeg') }}" data-animate="fadeInUp">
+                            </a> --}}
+                        </div>
+                        {{-- <div class="text-dark mt-3">
+                            *NOTE*
+                            These are only Concept Images. For details information contact our project & sales engineers
+                        </div> --}}
+                    </div>
+                    {{-- <div class="heading-text text-left heading-section">
+                        <h5 class="text-center fw-semibold p-3"
+                            style="background-color: #005199; color:#ffdd00; border-radius:10px; font-family: Verdana;">
+                            DOUBLE OFFSETBUTTERFLY
+                            VALVES</h5>
+                    </div> --}}
                     <div class="project-description text-dark" style="font-family: montserrat;">
-                        <h3>The Valves May Be Water Type / Lugged Water Type / Flanged Type. The Valves Are Bi-Directional
+                        <h6>The Valves May Be Water Type / Lugged Water Type / Flanged Type. The Valves Are Bi-Directional
                             And Suitable For Manual And Auto Operation (Pneumatic / Electrical) For On/Off And Control
                             Applications. The Valves Can Be Soft Seated Or Metal Seated.
-                        </h3>
+                        </h6>
                     </div>
 
                     {{-- <ul class="list-icon text-dark list-icon-arrow">
@@ -297,7 +358,7 @@
                     <div class="mt-3"> <a href="/#contact-us" class="btn btn-roundeded"
                             style="background-color: #005199; color:#ffdd00 ; border-color:#fff">BOOK NOW</a></div>
                 </div>
-                <div class="col-lg-7 align-content-center">
+                <div class="col-lg-7 d-none d-lg-block align-content-center">
                     <div class="text-center" data-lightbox="gallery">
                         {{-- <a title="" data-lightbox="gallery-image" href="images/portfolio/project/30.jpg">
                             <img src="{{ asset('Asset/images/anzox/butterflyvalve1.png') }}" data-animate="fadeInUp">
@@ -311,12 +372,10 @@
                                     alt="Butterfly Valve">
                             </a>
                         </div>
-
-                        <br><br>
+                        <br>
                         {{-- <a title="" data-lightbox="gallery-image" href="images/portfolio/project/42.jpg">
                             <img src="{{ asset('Asset/images/anzox/parking-photos/Stack3.jpeg') }}" data-animate="fadeInUp">
                         </a> --}}
-                        <br><br>
                     </div>
                     {{-- <div class="text-dark mt-3">
                         *NOTE*
@@ -325,7 +384,7 @@
                 </div>
             </div>
         </div>
-        <hr style="color:#005199">
+        <hr style="color:#005199; height:2px">
     </section>
     {{-- 3 PRODUCT END --}}
 
@@ -333,6 +392,12 @@
     <section id="page-content" class="p-b-0">
         <div class="container">
             <div class="row m-b-40">
+                <div class="d-block d-lg-none heading-text text-left heading-section">
+                    <h5 class="text-center fw-semibold p-3"
+                        style="background-color: #005199; color:#ffdd00; border-radius:10px; font-family: Verdana;">
+                        TRIPPLE OFFSETBUTTRFLY [METAL SEATED] VALVES WAFER AND FLANGED VALVES.
+                    </h5>
+                </div>
                 <div class="col-lg-7 align-content-center">
                     <div class="text-center" data-lightbox="gallery">
                         {{-- <a title="" data-lightbox="gallery-image" href="images/portfolio/project/30.jpg">
@@ -347,12 +412,10 @@
                                     alt="Butterfly Valve">
                             </a>
                         </div>
-
-                        <br><br>
+                        <br>
                         {{-- <a title="" data-lightbox="gallery-image" href="images/portfolio/project/42.jpg">
                             <img src="{{ asset('Asset/images/anzox/parking-photos/Stack3.jpeg') }}" data-animate="fadeInUp">
                         </a> --}}
-                        <br><br>
                     </div>
                     {{-- <div class="text-dark mt-3">
                         *NOTE*
@@ -360,8 +423,8 @@
                     </div> --}}
                 </div>
 
-                <div class="sidebar sticky-sidebar col-lg-5">
-                    <div class="heading-text text-left heading-section">
+                <div class="sidebar col-lg-5">
+                    <div class="d-none d-lg-block heading-text text-left heading-section">
                         <h5 class="text-center fw-semibold p-3"
                             style="background-color: #005199; color:#ffdd00; border-radius:10px; font-family: Verdana;">
                             TRIPPLE OFFSETBUTTRFLY [METAL SEATED] VALVES WAFER AND FLANGED VALVES.
@@ -453,7 +516,7 @@
                 </div>
             </div>
         </div>
-        <hr style="color:#005199">
+        <hr style="color:#005199; height:2px">
     </section>
     {{-- 4 PRODUCT END --}}
 
@@ -461,16 +524,37 @@
     <section id="page-content" class="p-b-0">
         <div class="container">
             <div class="row m-b-40">
-                <div class="sidebar sticky-sidebar col-lg-5">
+                <div class="sidebar col-lg-5">
                     <div class="heading-text text-left heading-section">
                         <h5 class="text-center fw-semibold p-3"
                             style="background-color: #005199; color:#ffdd00; border-radius:10px; font-family: Verdana;">
                             TEFLON LINED BUTTERFLY
                             VALVES</h5>
                     </div>
+                    <div class="col-lg-7 d-block d-lg-none align-content-center">
+                        <div class="text-center" data-lightbox="gallery">
+                            {{-- <a title="" data-lightbox="gallery-image" href="images/portfolio/project/30.jpg">
+                            <img src="{{ asset('Asset/images/anzox/butterflyvalve1.png') }}" data-animate="fadeInUp">
+                        </a> --}}
+                            {{-- <br><br> --}}
+                            <a title="" data-lightbox="gallery-image"
+                                href="{{ asset('Asset/images/anzox/butterflyvalve5.png') }}">
+                                <img src="{{ asset('Asset/images/anzox/butterflyvalve5.png') }}"
+                                    class="img-fluid mx-auto d-block" style="width: 100%; max-width: 500px;"
+                                    alt="Butterfly Valve">
+                            </a>
+                            {{-- <a title="" data-lightbox="gallery-image" href="images/portfolio/project/42.jpg">
+                            <img src="{{ asset('Asset/images/anzox/parking-photos/Stack3.jpeg') }}" data-animate="fadeInUp">
+                        </a> --}}
+                        </div>
+                        {{-- <div class="text-dark mt-3">
+                        *NOTE*
+                        These are only Concept Images. For details information contact our project & sales engineers
+                    </div> --}}
+                    </div>
                     <div class="project-description text-dark" style="font-family: montserrat;">
-                        <h3>Lined Butterflyvalves Are Used For Highly Corrosive Applications Like Concentrated Acids And
-                            Alkali.</h3>
+                        <h6>Lined Butterflyvalves Are Used For Highly Corrosive Applications Like Concentrated Acids And
+                            Alkali.</h6>
                     </div>
 
                     {{-- <ul class="list-icon text-dark list-icon-arrow">
@@ -542,23 +626,21 @@
                     <div class="mt-3"> <a href="/#contact-us" class="btn btn-roundeded"
                             style="background-color: #005199; color:#ffdd00 ; border-color:#fff">BOOK NOW</a></div>
                 </div>
-                <div class="col-lg-7 align-content-center">
+                <div class="col-lg-7 d-none d-lg-block align-content-center">
                     <div class="text-center" data-lightbox="gallery">
                         {{-- <a title="" data-lightbox="gallery-image" href="images/portfolio/project/30.jpg">
                             <img src="{{ asset('Asset/images/anzox/butterflyvalve1.png') }}" data-animate="fadeInUp">
                         </a> --}}
                         {{-- <br><br> --}}
                         <a title="" data-lightbox="gallery-image"
-                                href="{{ asset('Asset/images/anzox/butterflyvalve5.png') }}">
-                                <img src="{{ asset('Asset/images/anzox/butterflyvalve5.png') }}"
-                                    class="img-fluid mx-auto d-block" style="width: 100%; max-width: 400px;"
-                                    alt="Butterfly Valve">
-                            </a>
-                        <br><br>
+                            href="{{ asset('Asset/images/anzox/butterflyvalve5.png') }}">
+                            <img src="{{ asset('Asset/images/anzox/butterflyvalve5.png') }}"
+                                class="img-fluid mx-auto d-block" style="width: 100%; max-width: 500px;"
+                                alt="Butterfly Valve">
+                        </a>
                         {{-- <a title="" data-lightbox="gallery-image" href="images/portfolio/project/42.jpg">
                             <img src="{{ asset('Asset/images/anzox/parking-photos/Stack3.jpeg') }}" data-animate="fadeInUp">
                         </a> --}}
-                        <br><br>
                     </div>
                     {{-- <div class="text-dark mt-3">
                         *NOTE*

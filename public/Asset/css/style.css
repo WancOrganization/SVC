@@ -2090,7 +2090,7 @@ Main Menu
 #mainMenu nav > ul > li .dropdown-menu > li:active > span,
 #mainMenu nav > ul > li .dropdown-menu > li.hover-active > a,
 #mainMenu nav > ul > li .dropdown-menu > li.hover-active > span {
-    color: #c31e2f;
+    color: #005199;
 }
 
 #mainMenu nav > ul > li .dropdown-menu.menu-last {

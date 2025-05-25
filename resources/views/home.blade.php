@@ -4,7 +4,7 @@
         data-height-xs="360">
         <!-- Slide 1 -->
         <div class="slide kenburns background-image"
-            style="background-image: url({{ asset('Asset/images/anzox/valve1.jpeg') }})">
+            style="background-image: url({{ asset('Asset/images/anzox/slider1.jpeg') }})">
             <div class="container">
                 <div class="slide-captions text-center">
                     <!-- Captions -->
@@ -23,7 +23,7 @@
 
         <!-- Slide 2 -->
         <div class="slide kenburns"
-            style="background-image: url({{ asset('Asset/images/anzox/valve10.jpg') }}); opacity:0.9">
+            style="background-image: url({{ asset('Asset/images/anzox/slider2.jpeg') }}); opacity:0.9">
             <div class="container">
                 <div class="slide-captions text-center">
                     <!-- Captions -->
@@ -84,30 +84,34 @@
             <div class="row">
                 <div class="col-lg-3 pb-2">
                     <div class="text-center">
-                        <img src="{{ asset('Asset/images/anzox/SVClogo.png') }}" alt="" style="width: 30% ; max-width:150px">
+                        <img src="{{ asset('Asset/images/anzox/SVClogo.png') }}" alt=""
+                            style="width: 30% ; max-width:150px">
                     </div>
                 </div>
                 <div class="col-lg-9 pb-2">
                     <div class="row" style="font-family: montserrat">
                         <div class="col-lg-4 p-2">
-                            Space Valves & Controls is a leading manufacturer and supplier of industrial valves in India.
-                            We offer a comprehensive range of products, including gate valves, globe valves, swing
-                            check valves, forged gate globe check valves, trunnion-mounted ball valves, and floating ball
-                            valves. <br> <br> Our valves are available in various sizes, pressure ratings, and materials
-                            such as carbon steel, alloy steel, stainless steel, duplex, and monel.
+                            Space Valves & Controls is a leading manufacturer and supplier of industrial valves in India. We
+                            offer a comprehensive range of products, Manual and actuated ( pneumatic and Electrical )
+                            Butterfly valves (Double offset, triple offset and rubber seated valves), Ball vales ( floating,
+                            trunnion mounted – both soft and metal seated ) gate valves, globe valves, swing check valves,
+                            forged gate globe check valves. <br> <br> Our valves are available in various sizes, pressure
+                            ratings, and
+                            materials such as carbon steel, alloy steel, stainless steel, Duplex and Super Duplex Stainless
+                            steels, Inconel and Monel.
                         </div>
                         <div class="col-lg-4 p-2">
-                            Founded by a technocrat with expertise in valve manufacturing, Space Valves & Controls
+                            Founded by group of technocrats with expertise in valve manufacturing, Space Valves & Controls
                             has established a reputation for precision and reliability. To serve global markets, we operate
                             two advanced manufacturing facilities in Navi Mumbai and Sanand, equipped with cutting-edge
-                            technology. <br><br> Our skilled engineers ensure excellence at every stage from design and
-                            material selection to production, assembly, and rigorous testing guaranteeing superior
-                            performance and customer satisfaction.
+                            technology.
                         </div>
                         <div class="col-lg-4 p-2">
-                            Our dedication to excellence is reflected in our certifications, including ISO 9001, ISO 14001,
-                            ISO 18001, CE Marking, CE-PED, IBR, API 6D, and API 600, demonstrating compliance with global
-                            industry standards.
+                            Our skilled engineers ensure excellence at every stage from design and material selection to
+                            production, assembly, and rigorous testing guaranteeing superior performance and customer
+                            satisfaction. <br> <br> Our dedication to excellence is reflected in our certifications,
+                            including ISO 9001, ISO 14001, ISO 18001, CE Marking, CE-PED, IBR, API 6D, and API 600,
+                            demonstrating compliance with global industry standards.
                         </div>
                     </div>
                 </div>
@@ -142,7 +146,7 @@
                         <p class="my-3 text-light" style="font-family: montserrat">
                             Natural Gas Processing, Nuclear, Oil & Petroleum Refining, Petrochemical Processing, Chemical,
                             Ship Building, Power Plants, Mining, FMCG, Desalination, Naval Marine Etc.Thus, Having such good
-                            industrial experience makes Steelstrong the best Valves company in India.
+                            industrial experience makes SVC the best Valves company in India.
                         </p>
                     </div>
 
@@ -203,16 +207,12 @@
                     style="border-color: #005199; border-radius:10px; border:1px solid #005199 ">
                     <div class="p-c m-0">
                         <h2 class="text-center" style="color: #005199">Quality Policy</h2>
-                        It is our endeavor to achieve growth through customer satisfaction by delivering conforming
-                        products
-                        within contractual delivery timeframe In this commitment we shall ensure enhancements in
-                        Manufacturing and Communications to make business with Organization a pleasure for our
-                        customers.
-                        <br><br>
-                        We are committed to comply with applicable product specifications, management system, legal and
-                        customer requirements, and to continually improve the effectiveness of the quality management
-                        system
-                        with participation of interested parties.
+                        1. Customer satisfaction by best quality product and services manufactured by integrated management
+                        system.
+                        <br>
+                        2. Continuous improvement of performance with highly motivated team.
+                        <br>
+                        3. Compliance with statutory and international standard requirements.
                     </div>
                 </div>
             </div>
