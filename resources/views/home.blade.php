@@ -133,6 +133,7 @@
                             system with the participation of interested parties.
                         </p>
                     </div>
+                    <hr class="d-block d-lg-none" style="color: #ffdd00; height:2px;">
 
                     <!-- Divider -->
                     <span class="d-none d-lg-block p-0" style="height: 40vh; width: 1px; background-color: #ffdd00;"></span>
@@ -149,6 +150,7 @@
                             industrial experience makes SVC the best Valves company in India.
                         </p>
                     </div>
+                    <hr class="d-block d-lg-none" style="color: #ffdd00; height:2px;">
 
                     <!-- Divider -->
                     <span class="d-none d-lg-block p-0" style="height: 40vh; width: 1px; background-color: #ffdd00;"></span>
@@ -185,7 +187,7 @@
             <h1 class="text-center fw-bold mb-5" style="color:#005199">SPACE VALVES & CONTROLS</h1>
             <div class="row justify-content-evenly" style="font-family: montserrat">
                 <div class="col-lg-5 p-4 m-lg-3 animated visible fadeInLeft" data-animate="fadeInLeft"
-                    style="border-color: #005199; border-radius:10px; border:1px solid #005199 ">
+                    style="border-radius:10px; border:1px solid #005199 ">
                     <div class="p-c m-0">
                         <h2 class="text-center" style="color: #005199">WHO WE ARE ?</h2>
                         We have grown as a large reputed valve manufacturing company
@@ -204,7 +206,7 @@
                 </div>
 
                 <div class="col-lg-5 p-4 m-lg-3 animated visible fadeInRight" data-animate="fadeInRight"
-                    style="border-color: #005199; border-radius:10px; border:1px solid #005199 ">
+                    style="border-radius:10px; border:1px solid #005199 ">
                     <div class="p-c m-0">
                         <h2 class="text-center" style="color: #005199">Quality Policy</h2>
                         1. Customer satisfaction by best quality product and services manufactured by integrated management
@@ -268,7 +270,7 @@
                         <div class="icon"><i class="fa fa-3x fa-user-tie text-light mb-2"></i></div>
                         <div class="counter text-light"> <span data-speed="200" data-refresh-interval="50"
                                 data-to="1530" data-from="400" data-seperator="true">1530</span> </div>
-                        <hr class="container text-light w-50 my-3" style="height: 2px;">
+                        <hr class="container w-50 my-3" style="height: 2px; color:#ffdd00;">
                         <p class="fw-semibold" style="color: #ffdd00; font-family:montserrat">HAPPY CLIENTS</p>
                     </div>
                 </div>
@@ -277,7 +279,7 @@
                         <div class="icon"><i class="fa fa-3x fa-handshake text-light mb-2"></i></div>
                         <div class="counter text-light"> <span data-speed="200" data-refresh-interval="23"
                                 data-to="1240" data-from="200" data-seperator="true">1240 +</span> </div>
-                        <hr class="container text-light my-3" style="height: 2px; width:99px">
+                        <hr class="container my-3" style="height: 2px; width:99px; color:#ffdd00;">
                         <p class="fw-semibold" style="color: #ffdd00; font-family:montserrat">PROJECTS FINISHED</p>
                     </div>
                 </div>
@@ -286,7 +288,7 @@
                         <div class="icon"><i class="fa fa-3x fa-thumbs-up text-light mb-2"></i></div>
                         <div class="counter text-light"> <span data-speed="200" data-refresh-interval="12"
                                 data-to="50" data-from="10" data-seperator="true">50 +</span> </div>
-                        <hr class="container text-light w-50 my-3" style="height: 2px">
+                        <hr class="container w-50 my-3" style="height: 2px; color:#ffdd00;">
                         {{-- <div class="seperator fw-bold text-dark seperator-medium"></div> --}}
                         <p class="fw-semibold" style="color: #ffdd00; font-family:montserrat">CUSTOMIZED SOLUTIONS</p>
                     </div>
