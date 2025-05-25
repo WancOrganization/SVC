@@ -4,7 +4,7 @@
         data-height-xs="360">
         <!-- Slide 1 -->
         <div class="slide kenburns background-image"
-            style="background-image: url({{ asset('Asset/images/anzox/slider1.jpeg') }})">
+            style="background-image: url({{ asset('Asset/images/anzox/slider11.jpeg') }})">
             <div class="container">
                 <div class="slide-captions text-center">
                     <!-- Captions -->
@@ -23,7 +23,7 @@
 
         <!-- Slide 2 -->
         <div class="slide kenburns"
-            style="background-image: url({{ asset('Asset/images/anzox/slider2.jpeg') }}); opacity:0.9">
+            style="background-image: url({{ asset('Asset/images/anzox/slider12.png') }}); opacity:0.9">
             <div class="container">
                 <div class="slide-captions text-center">
                     <!-- Captions -->
