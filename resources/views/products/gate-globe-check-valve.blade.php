@@ -739,4 +739,99 @@
         </div>
     </section>
     {{-- 6 PRODUCT END --}}
+      {{-- 8 PRODUCT --}}
+    <section id="page-content" class="p-b-0">
+        <div class="container">
+            <div class="row m-b-40">
+                <div class="d-block d-lg-none heading-text text-left heading-section">
+                    <h5 class="text-center fw-semibold p-3"
+                        style="background-color: #005199; color:#ffdd00; border-radius:10px; font-family: Verdana;">
+                        ELECTRICALLY ACTUATED VALVES
+                    </h5>
+                </div>
+                <div class="col-lg-7 align-content-center">
+                    <div class="text-center" data-lightbox="gallery">
+                        {{-- <a title="" data-lightbox="gallery-image" href="images/portfolio/project/30.jpg">
+                                <img src="{{ asset('Asset/images/anzox/stackParking1.png') }}" data-animate="fadeInUp">
+                            </a>
+                            <br><br> --}}
+                        <a title="" data-lightbox="gallery-image"
+                            href="{{ asset('Asset/images/anzox/ballvalve8.jpg') }}">
+                            <img src="{{ asset('Asset/images/anzox/ballvalve8.jpg') }}" class="img-fluid mx-auto d-block"
+                                style="width: 100%; max-width:350px;" alt="Butterfly Valve">
+                        </a>
+                        <br>
+                        {{-- <a title="" data-lightbox="gallery-image" href="images/portfolio/project/42.jpg">
+                            <img src="{{ asset('Asset/images/anzox/parking-photos/Stack3.jpeg') }}" data-animate="fadeInUp">
+                        </a> --}}
+                    </div>
+                    {{-- <div class="text-dark mt-3">
+                        *NOTE*
+                        These are only Concept Images. For details information contact our project & sales engineers
+                    </div> --}}
+                </div>
+
+                <div class="sidebar col-lg-5">
+                    <div class="d-none d-lg-block heading-text text-left heading-section">
+                        <h5 class="text-center fw-semibold p-3"
+                            style="background-color: #005199; color:#ffdd00; border-radius:10px; font-family: Verdana;">
+                            ELECTRICALLY ACTUATED VALVES
+                        </h5>
+                    </div>
+                    <div class="project-description text-dark" style="font-family: montserrat">
+                        <h6> <b>•</b> Electrically operated Ball valves, Butterfly valves, gate
+                            valves and globe valves can be supplied for ON /Off
+                            duty and control duty applications.</h6>
+                    </div>
+                    {{-- <ul class="list-icon text-dark list-icon-arrow">
+                            <li>Custom designs to suit different projects.</li>
+                            <li>Constructive use of vertical space.</li>
+                            <li>Anti -Fall Frame</li>
+                            <li>Safety Featured Inbuilt</li>
+                            <li>Indoor and Outdoor use</li>
+                            <li>Cost effective system</li>
+                        </ul> --}}
+                    {{-- <div class="mt-5">
+                        <h3 style="color: #005199; font-family: Verdana;">GENERAL SPECIFICATIONS</h3>
+                        <div class="table-responsive">
+                            <table class="table table-bordered text-dark" style="font-family: montserrat">
+                                <thead>
+                                    <tr>
+                                        <td> <strong class="text-primary">Pr. Rating :</strong></td>
+                                        <td> <strong class="">Body 15bar And Seat 10bar</strong></td>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td><strong class="text-primary">Spark Test :</strong></td>
+                                        <td><strong class="">15KV</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td> <strong class="text-primary">Body :</strong></td>
+                                        <td> <strong class="">DI With 3mm PFA Lining.</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td> <strong class="text-primary">Ball And Internals :</strong></td>
+                                        <td> <strong class="">SS With 3mm PFA/FEPlining.</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong class="text-primary">Temp :</strong></td>
+                                        <td><strong class="">Max 2080C</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong class="text-primary">Size :</strong></td>
+                                        <td><strong class="">1⁄2" To 8"</strong></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div> --}}
+                    <div class="mt-3"> <a href="/#contact-us" class="btn btn-roundeded"
+                            style="background-color: #005199; color:#ffdd00 ; border-color:#fff">BOOK NOW</a></div>
+                </div>
+            </div>
+        </div>
+        <hr style="color:#005199; height:2px">
+    </section>
+    {{-- 8 PRODUCT END --}}
 @endsection

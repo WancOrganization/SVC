@@ -4,7 +4,7 @@
         data-height-xs="360">
         <!-- Slide 1 -->
         <div class="slide kenburns background-image"
-            style="background-image: url({{ asset('Asset/images/anzox/slider11.jpeg') }})">
+            style="background-image: url({{ asset('Asset/images/anzox/slider03.jpg') }})">
             <div class="container">
                 <div class="slide-captions text-center">
                     <!-- Captions -->
@@ -23,7 +23,7 @@
 
         <!-- Slide 2 -->
         <div class="slide kenburns"
-            style="background-image: url({{ asset('Asset/images/anzox/slider12.png') }}); opacity:0.9">
+            style="background-image: url({{ asset('Asset/images/anzox/slider01.jpg') }}); opacity:0.9">
             <div class="container">
                 <div class="slide-captions text-center">
                     <!-- Captions -->
@@ -42,7 +42,7 @@
 
 
         <!-- Slide 3 -->
-        <div class="slide kenburns" style="background-image: url({{ asset('Asset/images/anzox/valve9.jpg') }})">
+        <div class="slide kenburns" style="background-image: url({{ asset('Asset/images/anzox/slider04.jpg') }})">
             <div class="container">
                 <div class="slide-captions text-center">
                     <!-- Captions -->
@@ -61,7 +61,7 @@
 
 
         <!-- Slide 4 -->
-        <div class="slide kenburns" style="background-image: url({{ asset('Asset/images/anzox/valve4.jpg') }})">
+        <div class="slide kenburns" style="background-image: url({{ asset('Asset/images/anzox/slider03.jpg') }})">
             <div class="container">
                 <div class="slide-captions text-center">
                     <!-- Captions -->
@@ -103,15 +103,14 @@
                         <div class="col-lg-4 p-2">
                             Founded by group of technocrats with expertise in valve manufacturing, Space Valves & Controls
                             has established a reputation for precision and reliability. To serve global markets, we operate
-                            two advanced manufacturing facilities in Navi Mumbai and Sanand, equipped with cutting-edge
+                           one manufacturing facilities in Navi Mumbai (Thane) equipped with cutting-edge
                             technology.
                         </div>
                         <div class="col-lg-4 p-2">
                             Our skilled engineers ensure excellence at every stage from design and material selection to
                             production, assembly, and rigorous testing guaranteeing superior performance and customer
                             satisfaction. <br> <br> Our dedication to excellence is reflected in our certifications,
-                            including ISO 9001, ISO 14001, ISO 18001, CE Marking, CE-PED, IBR, API 6D, and API 600,
-                            demonstrating compliance with global industry standards.
+                            including ISO 9001 demonstrating compliance with global industry standards.
                         </div>
                     </div>
                 </div>
@@ -136,7 +135,7 @@
                     <hr class="d-block d-lg-none" style="color: #ffdd00; height:2px;">
 
                     <!-- Divider -->
-                    <span class="d-none d-lg-block p-0" style="height: 40vh; width: 1px; background-color: #ffdd00;"></span>
+                    <span class="d-none d-lg-block p-0" style="height: 45vh; width: 1px; background-color: #ffdd00;"></span>
 
                     <!-- SERVICE & PARTS -->
                     <div class="col-md-3 p-0 text-center">
@@ -153,7 +152,7 @@
                     <hr class="d-block d-lg-none" style="color: #ffdd00; height:2px;">
 
                     <!-- Divider -->
-                    <span class="d-none d-lg-block p-0" style="height: 40vh; width: 1px; background-color: #ffdd00;"></span>
+                    <span class="d-none d-lg-block p-0" style="height: 45vh; width: 1px; background-color: #ffdd00;"></span>
 
                     <!-- TECHNOLOGY -->
                     <div class="col-md-3 p-0 text-center">
@@ -175,7 +174,7 @@
         </div>
     </section>
 
-    {{-- About us --}}
+{{-- About us --}}
     <section class="pt-0">
         <div class="container">
             <div class="container">
@@ -192,7 +191,7 @@
                         <h2 class="text-center" style="color: #005199">WHO WE ARE ?</h2>
                         We have grown as a large reputed valve manufacturing company
                         with
-                        two manufacturing plants located at Navi Mumbai (Maharashtra) and Sanand (Gujarat). SVC
+                        one manufacturing plants located at Navi Mumbai (Thane). SVC
                         activities
                         include design, material procurement, manufacturing, assembly and testing of valves. <br><br> We
                         supply Gate, Globe, Check, Ball and Cryogenic Valves manufactured according to different
@@ -329,7 +328,7 @@
                     data-animate="fadeInDown">
                     <div class="card">
                         <div class="team-image mb-0 text-center p-2">
-                            <img src="{{ asset('Asset/images/anzox/ballvalve.webp') }}"
+                            <img src="{{ asset('Asset/images/anzox/ballvalve7.jpg') }}"
                                 style="width:100%; height:350px; object-fit:contain;">
                         </div>
                         <div class="team-desc m-0 p-cb p-5" style="background-color: #005199">

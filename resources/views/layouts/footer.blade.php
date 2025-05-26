@@ -6,11 +6,10 @@
                     <div class="widget">
                         <div class="widget-title">
                             <img src="{{ asset('Asset/images/anzox/SVClogo.png') }}" alt="" width="150px">
-                            <h3 class="pt-4" style="font-family: Verdana;">SPACE VALVES & CONTROL Pvt. Ltd.</h3>
+                            <h3 class="pt-4" style="font-family: Verdana;">SPACE VALVES & CONTROLS Pvt. Ltd.</h3>
                         </div>
                         <p class="mb-5 text-light" style="font-family: montserrat;">
-                            Shop No. 5, Kastur Mahal, Opp. Canara Bank <br>
-                            Sion, Mumbai - 400022. <br> <br>
+                            Survey No. 117/4, Village: Pimpri, Tal. & Dist. <br> Thane, Maharashtra - 400070<br> <br>
                             All rights reserved. Copyright © 2025.
                         </p>
 
@@ -54,7 +53,9 @@
                                     <li class="social-facebook"><a style="text-decoration: none" href=""><i
                                                 class="fa fa-phone m-2"> </i>+91 9967722123</a></li>
                                     <li class="social-instagram"><a style="text-decoration: none" href=""><i
-                                                class="fa fa-envelope  m-2"></i>www.spacevalvescontrols.com</a></li>
+                                                class="fa fa-envelope  m-2"></i>support@spacevalvescontrols.com</a></li>
+                                                <li class="social-instagram"><a style="text-decoration: none" href=""><i
+                                                class="fa fa-envelope  m-2"></i>support@spacevalvescontrols.com</a></li>
                                 </ul>
                             </div>
                         </div>

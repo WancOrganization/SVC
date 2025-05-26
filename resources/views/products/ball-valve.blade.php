@@ -40,7 +40,8 @@
 
                     <div class="project-description text-dark" style="font-family: montserrat">
                         <h6>The Valves May Be Full Bore Or Reduced Bore And Are With Lever Operation (Normally Upto DN150
-                            (6")) And Quarter Turn Gear Operated For SizesDN200 And Higher. The Valves Are Bi- Directional
+                            (6")) , Quarter Turn Gear Operated And Actuated Operated For SizesDN200 And Higher.
+                            The Valves Are Bi- Directional
                             And Suitable For On/Off And Control Applications. The Applicable Standards Are</h6>
                     </div>
 
@@ -283,7 +284,7 @@
                                 <thead>
                                     <tr>
                                         <th><strong class="text-primary">Design STD : </strong></th>
-                                        <th><strong class="">API509/ BS5155</strong></th>
+                                        <th><strong class="">Mfgrs. Standard</strong></th>
                                     </tr>
                                 </thead>
                                 <tbody>
@@ -494,7 +495,7 @@
                                 <thead>
                                     <tr>
                                         <td> <strong class="text-primary">Design STD :</strong></td>
-                                        <td> <strong class="">API509/ BS5155/ AWWA C150 /IS13095</strong></td>
+                                        <td> <strong class="">API6D,ISO-17292</strong></td>
                                     </tr>
                                 </thead>
                                 <tbody>
