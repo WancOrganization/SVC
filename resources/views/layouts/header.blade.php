@@ -134,7 +134,7 @@
                             <li><a href="/industries-served" style="text-decoration: none">INDUSTRIES SERVED </a></li>
                             <li><a href="/facilities" style="text-decoration: none">FACILITIES</a></li>
                             {{-- <li><a href="/vendor">INVESTORS</a></li> --}}
-                            <li><a href="#" style="text-decoration: none">CATALOGUE</a></li>
+                            <li><a href="{{asset('Asset/pdf/catalogue.pdf')}}" download="Catalogue" style="text-decoration: none">CATALOGUE</a></li>
                             <li><a href="/#contact-us" style="text-decoration: none">CONTACT US</a></li>
 
                             {{-- <li class="social-facebook"><a href=""><i class="fab fa-facebook"></i></a></li>

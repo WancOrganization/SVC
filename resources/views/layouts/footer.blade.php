@@ -27,7 +27,7 @@
                                     <li><a style="text-decoration: none" href="/industries-served">INDUSTRIES SERVED</a>
                                     </li>
                                     <li><a style="text-decoration: none" href="/facilities">FACILITIES</a></li>
-                                    <li><a style="text-decoration: none" href="/catelogue">CATELOGUE</a></li>
+                                    <li><a style="text-decoration: none" href="/catelogue">CATALOGUE</a></li>
                                     <li><a style="text-decoration: none" href="/#contact-us">CONTACT US</a></li>
                                 </ul>
                             </div>
@@ -52,9 +52,9 @@
                                 <ul class="list text-light">
                                     <li class="social-facebook"><a style="text-decoration: none" href=""><i
                                                 class="fa fa-phone m-2"> </i>+91 9967722123</a></li>
-                                    <li class="social-instagram"><a style="text-decoration: none" href=""><i
-                                                class="fa fa-envelope  m-2"></i>support@spacevalvescontrols.com</a></li>
                                                 <li class="social-instagram"><a style="text-decoration: none" href=""><i
+                                                class="fa fa-envelope  m-2"></i>spacevalves25@gmail.com</a></li>
+                                    <li class="social-instagram"><a style="text-decoration: none" href=""><i
                                                 class="fa fa-envelope  m-2"></i>support@spacevalvescontrols.com</a></li>
                                 </ul>
                             </div>

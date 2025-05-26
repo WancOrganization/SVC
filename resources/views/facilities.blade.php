@@ -92,7 +92,7 @@
                     <div class="portfolio-item-wrap">
                         <div class="portfolio-image">
                             <div href="#"><img style="height: 350px"
-                                    src="{{ asset('Asset/images/anzox/facilities5.jpg') }}" alt=""></div>
+                                    src="{{ asset('Asset/images/anzox/Slider04.jpg') }}" alt=""></div>
                         </div>
                         <div class="portfolio-description">
                             <div href="portfolio-page-grid-gallery.html">
