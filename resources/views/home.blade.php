@@ -42,7 +42,7 @@
 
 
         <!-- Slide 3 -->
-        <div class="slide kenburns" style="background-image: url({{ asset('Asset/images/anzox/slider04.jpg') }})">
+        <div class="slide kenburns" style="background-image: url({{ asset('Asset/images/anzox/Valve-Testing.jpeg') }})">
             <div class="container">
                 <div class="slide-captions text-center">
                     <!-- Captions -->
@@ -102,7 +102,7 @@
                         </div>
                         <div class="col-lg-4 p-2">
                             Founded by group of technocrats with expertise in valve manufacturing, Space Valves & Controls
-                            has established a reputation for precision and reliability. To serve global markets, we operate
+                            has establis    hed a reputation for precision and reliability. To serve global markets, we operate
                            one manufacturing facilities in Navi Mumbai (Thane) equipped with cutting-edge
                             technology.
                         </div>
