@@ -122,7 +122,7 @@
                 <div class="row justify-content-between">
                     <!-- PRODUCTS -->
                     <div class="col-md-3 p-0 text-center">
-                        <div class="mb-4"><img src="{{ asset('Asset/images/icon/high-quality.png') }}" width="25%"
+                        <div class="mb-4"><img src="{{ asset('Asset/images/Icon/high-quality.png') }}" width="25%"
                                 alt=""></div>
                         <h3 class=" fw-semibold" style="color: #ffdd00; font-family:Verdana">
                             QUALITY POLICY</h3>
@@ -139,7 +139,7 @@
 
                     <!-- SERVICE & PARTS -->
                     <div class="col-md-3 p-0 text-center">
-                        <div class="mb-4"><img src="{{ asset('Asset/images/icon/factory.png') }}" width="25%"
+                        <div class="mb-4"><img src="{{ asset('Asset/images/Icon/factory.png') }}" width="25%"
                                 alt=""></div>
                         <h3 class="text-center fw-semibold" style="color: #ffdd00; font-family:Verdana">
                             INDUSTRIES WE SERVE</h3>
@@ -156,7 +156,7 @@
 
                     <!-- TECHNOLOGY -->
                     <div class="col-md-3 p-0 text-center">
-                        <div class="mb-4"><img src="{{ asset('Asset/images/icon/why.png') }}" width="25%"
+                        <div class="mb-4"><img src="{{ asset('Asset/images/Icon/why.png') }}" width="25%"
                                 alt=""></div>
 
                         <h3 class="text-center fw-semibold" style="color: #ffdd00; font-family:Verdana">

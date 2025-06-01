@@ -86,9 +86,7 @@
                                         <td><strong class="text-primary">Manual Override :</strong></td>
                                         <td><strong class="">Wheel Type</strong></td>
                                     </tr>
-                                    <tr>
-                                        <td class="text-center" colspan="2"><strong class="text-primary">View Details</strong></td>
-                                    </tr>
+                                   
                                     <tr>
                                         <td> <strong class="text-primary">Size :</strong></td>
                                         <td> <strong class="">1/2" to 12"</strong></td>
