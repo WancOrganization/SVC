@@ -102,8 +102,8 @@
                         </div>
                         <div class="col-lg-4 p-2">
                             Founded by group of technocrats with expertise in valve manufacturing, Space Valves & Controls
-                            has establis    hed a reputation for precision and reliability. To serve global markets, we operate
-                           one manufacturing facilities in Navi Mumbai (Thane) equipped with cutting-edge
+                            has establis hed a reputation for precision and reliability. To serve global markets, we operate
+                            one manufacturing facilities in Navi Mumbai (Thane) equipped with cutting-edge
                             technology.
                         </div>
                         <div class="col-lg-4 p-2">
@@ -174,7 +174,7 @@
         </div>
     </section>
 
-{{-- About us --}}
+    {{-- About us --}}
     <section class="pt-0">
         <div class="container">
             <div class="container">
@@ -303,69 +303,97 @@
                 <h2 class="fw-bold">OUR PRODUCTS</h2>
             </div>
             <div class="row">
-                <div class="team-member text-center col-md-4 animated visible fadeInLeft p-lg-3"
-                    data-animate="fadeInLeft">
-                    <div class="card">
-                        <div class="team-image mb-0 text-center p-2">
-                            <img src="{{ asset('Asset/images/anzox/butterflyvalve.png') }}"
-                                style="width:100%; height:350px; object-fit:contain;">
-                        </div>
-                        <div class="team-desc m-0 p-cb p-5" style="background-color: #005199">
-                            <a href="/butterfly-valve" style="text-decoration: none">
-                                <h2 class="fw-semibold" style="font-family:Verdana; color:#ffdd00">Butterfly Valve</h2>
-                                <span></span>
-                                <p class="text-light" style=" font-family: montserrat;">Butterfly valves are a family of
-                                    quarter-turn rotational motion valves that are used in pipelines to shut-off flow.
-                                </p>
-                                <h5 style="font-family: montserrat; color:#ffdd00">More Info
-                                </h5>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="team-member text-center col-md-4 animated visible fadeInDown p-lg-3"
-                    data-animate="fadeInDown">
-                    <div class="card">
-                        <div class="team-image mb-0 text-center p-2">
-                            <img src="{{ asset('Asset/images/anzox/ballvalve7.jpg') }}"
-                                style="width:100%; height:350px; object-fit:contain;">
-                        </div>
-                        <div class="team-desc m-0 p-cb p-5" style="background-color: #005199">
-                            <a href="/ball-valve" style="text-decoration: none">
-                                <h2 class="fw-semibold" style="font-family:Verdana; color:#ffdd00">Ball Valve</h2>
-                                <span></span>
-                                <p class="text-light" style=" font-family: montserrat;">A ball valve is a type of
-                                    quarter-turn
-                                    valve that controls fluid flow using a rotating ball with a bore (hole).
-                                </p>
-                                <h5 style="font-family: montserrat; color:#ffdd00">More Info</h5>
-                            </a>
+                <div class="carousel team-members team-members-shadow" data-dots="false" data-items="3">
+                    <div class="team-member text-center col-md-12 animated visible fadeInLeft p-lg-3"
+                        data-animate="fadeInLeft">
+                        <div class="card">
+                            <div class="team-image mb-0 text-center p-2">
+                                <img src="{{ asset('Asset/images/anzox/ButterflyValveHme.png') }}"
+                                    style="width:100%; height:350px; object-fit:contain;">
+                            </div>
+                            <div class="team-desc m-0 p-cb p-5" style="background-color: #005199">
+                                <a href="/butterfly-valve" style="text-decoration: none">
+                                    <h2 class="fw-semibold" style="font-family:Verdana; color:#ffdd00">Butterfly Valve
+                                    </h2>
+                                    <span></span>
+                                    <p class="text-light" style=" font-family: montserrat;">Butterfly valves are a family
+                                        of
+                                        quarter-turn rotational motion valves that are used in pipelines to shut-off flow.
+                                    </p>
+                                    <h5 style="font-family: montserrat; color:#ffdd00">More Info
+                                    </h5>
+                                </a>
+                            </div>
                         </div>
                     </div>
-                </div>
 
-                <div class="team-member text-center col-md-4 animated visible fadeInRight p-lg-3"
-                    data-animate="fadeInRight">
-                    <div class="card">
-                        <div class="team-image mb-0 text-center p-2">
-                            <img src="{{ asset('Asset/images/anzox/gateglobevalve.jpg') }}"
-                                style="width:100%; height:350px; object-fit:contain;">
+                    <div class="team-member text-center col-md-12 animated visible fadeInDown p-lg-3"
+                        data-animate="fadeInDown">
+                        <div class="card">
+                            <div class="team-image mb-0 text-center p-2">
+                                <img src="{{ asset('Asset/images/anzox/ballvalve7.jpg') }}"
+                                    style="width:100%; height:350px; object-fit:contain;">
+                            </div>
+                            <div class="team-desc m-0 p-cb p-5" style="background-color: #005199">
+                                <a href="/ball-valve" style="text-decoration: none">
+                                    <h2 class="fw-semibold" style="font-family:Verdana; color:#ffdd00">Ball Valve</h2>
+                                    <span></span>
+                                    <p class="text-light" style=" font-family: montserrat;">A ball valve is a type of
+                                        quarter-turn
+                                        valve that controls fluid flow using a rotating ball with a bore (hole).
+                                    </p>
+                                    <h5 style="font-family: montserrat; color:#ffdd00">More Info</h5>
+                                </a>
+                            </div>
                         </div>
-                        <div class="team-desc m-0 p-cb p-5" style="background-color: #005199">
-                            <a href="/gate-globe-check-valve" style="text-decoration: none">
-                                <h2 class="fw-semibold" style="font-family:Verdana; color:#ffdd00">Gate Globe &
-                                    Check Valve</h2>
-                                <span></span>
-                                <p class="text-light" style=" font-family: montserrat;">Design & Manufacturing :
-                                    API602/ISO
-                                    15761 for Class 150 &
-                                    1500, ASME B 16.34 for Class
-                                    2500...
-                                </p>
-                                <h5 style="font-family: montserrat; color:#ffdd00">More Info
-                                </h5>
-                            </a>
+                    </div>
+
+                    <div class="team-member text-center col-md-12 animated visible fadeInRight p-lg-3"
+                        data-animate="fadeInRight">
+                        <div class="card">
+                            <div class="team-image mb-0 text-center p-2">
+                                <img src="{{ asset('Asset/images/anzox/gateglobevalve.jpg') }}"
+                                    style="width:100%; height:350px; object-fit:contain;">
+                            </div>
+                            <div class="team-desc m-0 p-cb p-5" style="background-color: #005199">
+                                <a href="/gate-globe-check-valve" style="text-decoration: none">
+                                    <h2 class="fw-semibold" style="font-family:Verdana; color:#ffdd00">Gate Globe &
+                                        Check Valve</h2>
+                                    <span></span>
+                                    <p class="text-light" style=" font-family: montserrat;">Design & Manufacturing :
+                                        API602/ISO
+                                        15761 for Class 150 &
+                                        1500, ASME B 16.34 for Class
+                                        2500...
+                                    </p>
+                                    <h5 style="font-family: montserrat; color:#ffdd00">More Info
+                                    </h5>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="team-member text-center col-md-12 animated visible fadeInLeft p-lg-3"
+                        data-animate="fadeInLeft">
+                        <div class="card">
+                            <div class="team-image mb-0 text-center p-2">
+                                <img src="{{ asset('Asset/images/anzox/plugvalve.jpg') }}"
+                                    style="width:100%; height:350px; object-fit:contain;">
+                            </div>
+                            <div class="team-desc m-0 p-cb p-5" style="background-color: #005199">
+                                <a href="/gate-globe-check-valve" style="text-decoration: none">
+                                    <h2 class="fw-semibold" style="font-family:Verdana; color:#ffdd00">PLUG VALVE</h2>
+                                    <span></span>
+                                    <p class="text-light" style=" font-family: montserrat;">Design & Manufacturing :
+                                        API602/ISO
+                                        15761 for Class 150 &
+                                        1500, ASME B 16.34 for Class
+                                        2500...
+                                    </p>
+                                    <h5 style="font-family: montserrat; color:#ffdd00">More Info
+                                    </h5>
+                                </a>
+                            </div>
                         </div>
                     </div>
                 </div>

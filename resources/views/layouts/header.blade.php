@@ -115,7 +115,7 @@
                                         </ul> --}}
                                     </li>
 
-                                    <li class="dropdown-submenu"><a href="gate-globe-check-valve"
+                                    <li class="dropdown-submenu"><a href="/gate-globe-check-valve"
                                             style="text-decoration: none">GATE, GLOBE & CHECK
                                             VALVE</a>
                                         {{-- <ul class="dropdown-menu">
@@ -127,14 +127,25 @@
                                             <li><a href="/cart-parking">CART PARKING</a> </li>
                                         </ul> --}}
                                     </li>
-
+                                    <li class="dropdown-submenu"><a href="/plug-valve"
+                                            style="text-decoration: none">PLUG VALVE</a>
+                                        {{-- <ul class="dropdown-menu">
+                                            <li><a href="/puzzle-parking">PUZZLE PARKING</a> </li>
+                                            <li><a href="/tower-parking">TOWER PARKING</a> </li>
+                                            <li><a href="/rotary-parking">ROTARY PARKING</a> </li>
+                                            <li><a href="/circulatory-parking">CIRCULATORY PARKING</a> </li>
+                                            <li><a href="/car-lifts">CAR LIFTS</a> </li>
+                                            <li><a href="/cart-parking">CART PARKING</a> </li>
+                                        </ul> --}}
+                                    </li>
                                 </ul>
                             </li>
 
                             <li><a href="/industries-served" style="text-decoration: none">INDUSTRIES SERVED </a></li>
                             <li><a href="/facilities" style="text-decoration: none">FACILITIES</a></li>
                             {{-- <li><a href="/vendor">INVESTORS</a></li> --}}
-                            <li><a href="{{asset('Asset/pdf/catalogue.pdf')}}" download="Catalogue" style="text-decoration: none">CATALOGUE</a></li>
+                            <li><a href="{{ asset('Asset/pdf/catalogue.pdf') }}" download="Catalogue"
+                                    style="text-decoration: none">CATALOGUE</a></li>
                             <li><a href="/#contact-us" style="text-decoration: none">CONTACT US</a></li>
 
                             {{-- <li class="social-facebook"><a href=""><i class="fab fa-facebook"></i></a></li>

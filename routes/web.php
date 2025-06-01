@@ -22,13 +22,16 @@ Route::get('/butterfly-valve', function () {
     return view('products.butterfly-valve');
 });
 
-
 Route::get('/ball-valve', function () {
     return view('products.ball-valve');
 });
 
 Route::get('/gate-globe-check-valve', function () {
     return view('products.gate-globe-check-valve');
+});
+
+Route::get('/plug-valve', function () {
+    return view('products.plug-valve');
 });
 
 Route::get('/stack-double-parking', function () {
