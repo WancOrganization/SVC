@@ -11,21 +11,29 @@ class MailController extends Controller
     //
     public function sendMail(Request $request)
     {
-        $to = "spacevalves25@gmail.com";
+        $to = "support@spacevalvescontrols.com";
         $email = $request->email;
         $contact = $request->contact;
         $subject = $request->subject;
         $message = $request->message;
         $name = ucwords($request->name);
-        $msg = "
-        Hello: $name,<br>
-        Email: $email,<br>
-        Contact no.: $contact,<br>
-        <p>Dummy Mail</p>
+        $messageContent = nl2br(e($request->message));
 
-        Saif<br>
-        SVC</p>
+        $msg = "
+            <p><strong>Name:</strong> $name</p>
+            <p><strong>Email:</strong> $email</p>
+            <p><strong>Subject:</strong> $subject</p>
+            <p><strong>Message:</strong><br>$messageContent</p>
         ";
+        // $msg = "
+        // Name: $name,<br>
+        // Email: $email,<br>
+        // Contact no.: $contact,<br>
+        // <p>Dummy Mail</p>
+
+        // Saif<br>
+        // SVC</p>
+        // ";
         Mail::to($to)->send(new ContactMail($email, $msg, $subject, $contact));
         return redirect()->back()->with('Success', 'Email sent successfully!');
     }
